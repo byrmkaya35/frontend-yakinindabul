@@ -1,11 +1,20 @@
 import React, { useState, useRef } from "react";
 import axios from "axios";
 import CategorySelector from "./CategorySelector";
-
-// 👇 ENV üzerinden API_URL çekiliyor
+import { CATEGORY_ATTRIBUTES } from "../categoryAttributes";
 
 const API_URL = process.env.REACT_APP_API_URL || "http://localhost:5000";
 
+// Gelişmiş özellikleri otomatik gösterecek anahtar kategoriler (örnek)
+const GELISMIS_KATEGORILER = [
+  "Ayakkabı",
+  "Telefon",
+  "T-Shirt",
+  "Çanta",
+  "Bilgisayar",
+  "Buzdolabı"
+  // dilediğini buraya ekle!
+];
 
 export default function AddProduct() {
   const [urunAdi, setUrunAdi] = useState("");
@@ -13,10 +22,7 @@ export default function AddProduct() {
   const [fiyat, setFiyat] = useState("");
   const [stokDurumu, setStokDurumu] = useState("var");
   const [kategoriPath, setKategoriPath] = useState("");
-  const [marka, setMarka] = useState("");
-  const [renk, setRenk] = useState("");
-  const [boyut, setBoyut] = useState("");
-  const [malzeme, setMalzeme] = useState("");
+  const [ozellikler, setOzellikler] = useState({});
   const [urunKodu, setUrunKodu] = useState("");
   const [images, setImages] = useState([]);
   const [previewIndex, setPreviewIndex] = useState(null);
@@ -24,6 +30,7 @@ export default function AddProduct() {
   const dragItem = useRef();
   const dragOverItem = useRef();
 
+  // Görsel işlemleri
   const handleFilesChange = (e) => {
     const files = Array.from(e.target.files);
     setImages((prev) => [...prev, ...files]);
@@ -47,10 +54,21 @@ export default function AddProduct() {
     setImages(listCopy);
   };
 
+  // Kategori değişince özellikleri sıfırla
   const handleCategorySelect = (categoryPathString) => {
     setKategoriPath(categoryPathString);
+    setOzellikler({});
   };
 
+  // Özellik inputlarını dinamik yönet
+  const handleOzellikDegis = (e) => {
+    setOzellikler((prev) => ({
+      ...prev,
+      [e.target.name]: e.target.value
+    }));
+  };
+
+  // Form gönder
   const handleSubmit = async (e) => {
     e.preventDefault();
     try {
@@ -60,11 +78,10 @@ export default function AddProduct() {
       formData.append("fiyat", fiyat);
       formData.append("stokDurumu", stokDurumu);
       formData.append("kategoriPath", kategoriPath);
-      formData.append("marka", marka);
-      formData.append("renk", renk);
-      formData.append("boyut", boyut);
-      formData.append("malzeme", malzeme);
       formData.append("urunKodu", urunKodu);
+
+      // Tüm özellikleri tek JSON olarak kaydet
+      formData.append("ozellikler", JSON.stringify(ozellikler));
       images.forEach((img) => formData.append("images", img));
 
       const token = localStorage.getItem("token");
@@ -83,9 +100,8 @@ export default function AddProduct() {
       if (res.data.success) {
         alert("Ürün başarıyla eklendi!");
         setUrunAdi(""); setAciklama(""); setFiyat("");
-        setStokDurumu("var"); setKategoriPath(""); setMarka("");
-        setRenk(""); setBoyut(""); setMalzeme(""); setUrunKodu("");
-        setImages([]); setPreviewIndex(null);
+        setStokDurumu("var"); setKategoriPath(""); setOzellikler({});
+        setUrunKodu(""); setImages([]); setPreviewIndex(null);
       } else {
         alert(res.data.message || "Bir hata oluştu!");
       }
@@ -93,6 +109,14 @@ export default function AddProduct() {
       alert(err.response?.data?.message || "Sunucu hatası!");
     }
   };
+
+  // Kategori adını path'ten çek
+  const selectedCategory = kategoriPath?.split(">").pop()?.trim() || "";
+
+  // Kategori path'inde GELISMIS_KATEGORILER'den biri geçiyor mu?
+  const matchedKey = GELISMIS_KATEGORILER.find(key =>
+    kategoriPath.toLocaleLowerCase("tr").includes(key.toLocaleLowerCase("tr"))
+  );
 
   return (
     <div className="min-h-screen bg-gray-50 flex justify-center pt-16 px-4">
@@ -200,47 +224,80 @@ export default function AddProduct() {
           )}
         </div>
 
-        {/* Ürün Özellikleri */}
+        {/* Dinamik Ürün Özellikleri */}
         <div>
           <h3 className="font-semibold mb-3">Ürün Özellikleri</h3>
-          <input
-            type="text"
-            placeholder="Marka"
-            value={marka}
-            onChange={(e) => setMarka(e.target.value)}
-            className="w-full border border-gray-300 rounded px-3 py-2 mb-3 focus:outline-none focus:ring-2 focus:ring-blue-500"
-            required
-          />
-          <input
-            type="text"
-            placeholder="Renk"
-            value={renk}
-            onChange={(e) => setRenk(e.target.value)}
-            className="w-full border border-gray-300 rounded px-3 py-2 mb-3 focus:outline-none focus:ring-2 focus:ring-blue-500"
-            required
-          />
-          <input
-            type="text"
-            placeholder="Boyut"
-            value={boyut}
-            onChange={(e) => setBoyut(e.target.value)}
-            className="w-full border border-gray-300 rounded px-3 py-2 mb-3 focus:outline-none focus:ring-2 focus:ring-blue-500"
-            required
-          />
-          <input
-            type="text"
-            placeholder="Malzeme"
-            value={malzeme}
-            onChange={(e) => setMalzeme(e.target.value)}
-            className="w-full border border-gray-300 rounded px-3 py-2 mb-3 focus:outline-none focus:ring-2 focus:ring-blue-500"
-            required
-          />
+          {/* Gelişmiş kategorilerden biri kategori path'te geçiyorsa */}
+          {matchedKey
+            ? CATEGORY_ATTRIBUTES[matchedKey]?.map((field) => (
+                <div key={field.name} className="mb-3">
+                  <label className="block mb-1 font-medium">
+                    {field.label}{field.required && <span className="text-red-500 ml-1">*</span>}
+                  </label>
+                  {field.type === "select" ? (
+                    <select
+                      name={field.name}
+                      value={ozellikler[field.name] || ""}
+                      onChange={handleOzellikDegis}
+                      required={field.required}
+                      className="w-full border border-gray-300 rounded px-3 py-2"
+                    >
+                      <option value="">Seçiniz</option>
+                      {field.options?.map((opt) => (
+                        <option key={opt} value={opt}>{opt}</option>
+                      ))}
+                    </select>
+                  ) : (
+                    <input
+                      type={field.type}
+                      name={field.name}
+                      value={ozellikler[field.name] || ""}
+                      onChange={handleOzellikDegis}
+                      required={field.required}
+                      className="w-full border border-gray-300 rounded px-3 py-2"
+                    />
+                  )}
+                </div>
+              ))
+            : (selectedCategory &&
+              CATEGORY_ATTRIBUTES[selectedCategory]?.map((field) => (
+                <div key={field.name} className="mb-3">
+                  <label className="block mb-1 font-medium">
+                    {field.label}{field.required && <span className="text-red-500 ml-1">*</span>}
+                  </label>
+                  {field.type === "select" ? (
+                    <select
+                      name={field.name}
+                      value={ozellikler[field.name] || ""}
+                      onChange={handleOzellikDegis}
+                      required={field.required}
+                      className="w-full border border-gray-300 rounded px-3 py-2"
+                    >
+                      <option value="">Seçiniz</option>
+                      {field.options?.map((opt) => (
+                        <option key={opt} value={opt}>{opt}</option>
+                      ))}
+                    </select>
+                  ) : (
+                    <input
+                      type={field.type}
+                      name={field.name}
+                      value={ozellikler[field.name] || ""}
+                      onChange={handleOzellikDegis}
+                      required={field.required}
+                      className="w-full border border-gray-300 rounded px-3 py-2"
+                    />
+                  )}
+                </div>
+              )))}
+
+          {/* Ürün Kodu (her kategoride zorunluysa burada ayrı tutabilirsin) */}
           <input
             type="text"
             placeholder="Ürün Kodu"
             value={urunKodu}
             onChange={(e) => setUrunKodu(e.target.value)}
-            className="w-full border border-gray-300 rounded px-3 py-2 focus:outline-none focus:ring-2 focus:ring-blue-500"
+            className="w-full border border-gray-300 rounded px-3 py-2"
             required
           />
           {/* Fiyat Alanı */}
@@ -254,7 +311,7 @@ export default function AddProduct() {
               placeholder="Fiyat"
               value={fiyat}
               onChange={(e) => setFiyat(e.target.value)}
-              className="w-full border border-gray-300 rounded px-3 py-2 focus:outline-none focus:ring-2 focus:ring-blue-500"
+              className="w-full border border-gray-300 rounded px-3 py-2"
               required
               min="0"
               step="0.01"
@@ -274,9 +331,8 @@ export default function AddProduct() {
             type="reset"
             onClick={() => {
               setUrunAdi(""); setAciklama(""); setFiyat("");
-              setStokDurumu("var"); setKategoriPath(""); setMarka("");
-              setRenk(""); setBoyut(""); setMalzeme(""); setUrunKodu("");
-              setImages([]); setPreviewIndex(null);
+              setStokDurumu("var"); setKategoriPath(""); setOzellikler({});
+              setUrunKodu(""); setImages([]); setPreviewIndex(null);
             }}
             className="bg-gray-200 rounded px-5 py-2 hover:bg-gray-300 transition"
           >
