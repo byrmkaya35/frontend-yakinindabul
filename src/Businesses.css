@@ -1,0 +1,205 @@
+
+.businesses-page {
+  max-width: 900px;
+  margin: 40px auto;
+  padding: 32px 30px;
+  background: #fff;
+  border-radius: 18px;
+  box-shadow: 0 6px 24px rgba(25,80,140,0.11);
+  font-family: 'Inter', 'Segoe UI', Arial, sans-serif;
+}
+.businesses-header {
+  text-align: center;
+  margin-bottom: 28px;
+}
+.businesses-header h2 {
+  margin: 0;
+  font-size: 1.4rem;
+  font-weight: 700;
+  letter-spacing: 0.2px;
+}
+.businesses-desc {
+  font-size: 1rem;
+  color: #555;
+  margin-top: 7px;
+  margin-bottom: 6px;
+}
+.businesses-table-wrap {
+  overflow-x: auto;
+}
+.businesses-table {
+  width: 100%;
+  border-collapse: collapse;
+  background: #f9fafb;
+  border-radius: 14px;
+  overflow: hidden;
+  min-width: 820px;
+}
+.businesses-table th, .businesses-table td {
+  padding: 12px 16px;
+  text-align: center;
+  font-size: 1rem;
+}
+.businesses-table th {
+  background: #f0f7fa;
+  color: #222;
+  font-weight: 600;
+  letter-spacing: 0.2px;
+}
+.b-prod-count {
+  font-weight: 600;
+  font-size: 1rem;
+  color: #222;
+}
+.b-status {
+  font-weight: 600;
+  padding: 5px 15px;
+  border-radius: 18px;
+  font-size: 0.97rem;
+  display: inline-block;
+}
+.b-active {
+  background: #e7f9ec;
+  color: #2bb673;
+}
+.b-passive {
+  background: #f9e7e7;
+  color: #e34a4a;
+}
+.b-btn-inspect {
+  background: #e6f7ff;
+  color: #1479a5;
+  border: none;
+  border-radius: 6px;
+  padding: 7px 18px;
+  font-size: 0.97rem;
+  font-weight: 500;
+  cursor: pointer;
+  transition: background 0.15s, color 0.15s, box-shadow 0.13s;
+  margin: 0;
+}
+.b-btn-inspect:hover {
+  background: #bae7ff;
+  color: #124b5c;
+}
+.b-back-btn {
+  margin-top: 22px;
+  display: block;
+  padding: 10px 22px;
+  font-size: 1rem;
+  border: none;
+  border-radius: 8px;
+  background: #f7faff;
+  color: #134d6b;
+  font-weight: 500;
+  cursor: pointer;
+  box-shadow: 0 1px 6px rgba(25,80,140,0.08);
+  transition: background 0.15s, color 0.15s;
+}
+.b-back-btn:hover {
+  background: #e2f7fc;
+  color: #09B7D6;
+}
+
+.businesses-page {
+  max-width: 900px;
+  margin: 40px auto;
+  padding: 32px 30px;
+  background: #fff;
+  border-radius: 18px;
+  box-shadow: 0 6px 24px rgba(25,80,140,0.11);
+  font-family: 'Inter', 'Segoe UI', Arial, sans-serif;
+}
+.businesses-header {
+  text-align: center;
+  margin-bottom: 28px;
+}
+.businesses-header h2 {
+  margin: 0;
+  font-size: 1.4rem;
+  font-weight: 700;
+  letter-spacing: 0.2px;
+}
+.businesses-desc {
+  font-size: 1rem;
+  color: #555;
+  margin-top: 7px;
+  margin-bottom: 6px;
+}
+.businesses-table-wrap {
+  overflow-x: auto;
+}
+.businesses-table {
+  width: 100%;
+  border-collapse: collapse;
+  background: #f9fafb;
+  border-radius: 14px;
+  overflow: hidden;
+  min-width: 820px;
+}
+.businesses-table th, .businesses-table td {
+  padding: 12px 16px;
+  text-align: center;
+  font-size: 1rem;
+}
+.businesses-table th {
+  background: #f0f7fa;
+  color: #222;
+  font-weight: 600;
+  letter-spacing: 0.2px;
+}
+.b-prod-count {
+  font-weight: 600;
+  font-size: 1rem;
+  color: #222;
+}
+.b-status {
+  font-weight: 600;
+  padding: 5px 15px;
+  border-radius: 18px;
+  font-size: 0.97rem;
+  display: inline-block;
+}
+.b-active {
+  background: #e7f9ec;
+  color: #2bb673;
+}
+.b-passive {
+  background: #f9e7e7;
+  color: #e34a4a;
+}
+.b-btn-inspect {
+  background: #e6f7ff;
+  color: #1479a5;
+  border: none;
+  border-radius: 6px;
+  padding: 7px 18px;
+  font-size: 0.97rem;
+  font-weight: 500;
+  cursor: pointer;
+  transition: background 0.15s, color 0.15s, box-shadow 0.13s;
+  margin: 0;
+}
+.b-btn-inspect:hover {
+  background: #bae7ff;
+  color: #124b5c;
+}
+.b-back-btn {
+  margin-top: 22px;
+  display: block;
+  padding: 10px 22px;
+  font-size: 1rem;
+  border: none;
+  border-radius: 8px;
+  background: #f7faff;
+  color: #134d6b;
+  font-weight: 500;
+  cursor: pointer;
+  box-shadow: 0 1px 6px rgba(25,80,140,0.08);
+  transition: background 0.15s, color 0.15s;
+}
+.b-back-btn:hover {
+  background: #e2f7fc;
+  color: #09B7D6;
+}
+

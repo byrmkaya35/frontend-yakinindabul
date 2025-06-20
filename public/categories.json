@@ -1,0 +1,2868 @@
+[
+  
+  {
+    "name": "Aksesuar",
+    "subcategories": [
+      {
+        "name": "Saat"
+      },
+      {
+        "name": "Şapka"
+      },
+      {
+        "name": "Takı & Mücevher",
+        "subcategories": [
+          {
+            "name": "Bileklik",
+            "subcategories": [
+              { "name": "Altın Bileklik" },
+              { "name": "Gümüş Bileklik" },
+              { "name": "Pırlanta Bileklik" },
+              { "name": "Bijuteri Bileklik" },
+              { "name": "Çelik Bileklik" },
+              { "name": "İnci Bileklik" },
+              { "name": "Elmas Bileklik" },
+              { "name": "Kristal Bileklik" },
+              { "name": "Zirkon Bileklik" }
+            ]
+          },
+          {
+            "name": "Kolye",
+            "subcategories": [
+              { "name": "Altın Kolye" },
+              { "name": "Gümüş Kolye" },
+              { "name": "Pırlanta Kolye" },
+              { "name": "Bijuteri Kolye" },
+              { "name": "Çelik Kolye" },
+              { "name": "İnci Kolye" },
+              { "name": "Elmas Kolye" },
+              { "name": "Altın Kolye Ucu" },
+              { "name": "Kristal Kolye" },
+              { "name": "Zirkon Kolye" }
+            ]
+          },
+          {
+            "name": "Küpe",
+            "subcategories": [
+              { "name": "Altın Küpe" },
+              { "name": "Gümüş Küpe" },
+              { "name": "Pırlanta Küpe" },
+              { "name": "Bijuteri Küpe" },
+              { "name": "Çelik Küpe" },
+              { "name": "İnci Küpe" },
+              { "name": "Elmas Küpe" },
+              { "name": "Kristal Küpe" },
+              { "name": "Zirkon Küpe" }
+            ]
+          },
+          {
+            "name": "Yüzük",
+            "subcategories": [
+              { "name": "Altın Yüzük" },
+              { "name": "Gümüş Yüzük" },
+              { "name": "Pırlanta Yüzük" },
+              { "name": "Bijuteri Yüzük" },
+              { "name": "Çelik Yüzük" },
+              { "name": "İnci Yüzük" },
+              { "name": "Elmas Yüzük" },
+              { "name": "Kristal Yüzük" },
+              { "name": "Zirkon Yüzük" },
+              { "name": "Altın Alyans" },
+              { "name": "Gümüş Alyans" },
+              { "name": "Bijuteri Alyans" }
+            ]
+          },
+          {
+            "name": "Şahmeran",
+            "subcategories": [
+              { "name": "Gümüş Şahmeran" },
+              { "name": "Bijuteri Şahmeran" },
+              { "name": "Altın Şahmeran" }
+            ]
+          },
+          {
+            "name": "Halhal & Ayak Aksesuarları",
+            "subcategories": [
+              { "name": "Gümüş Halhal" },
+              { "name": "Bijuteri Halhal" },
+              { "name": "Altın Halhal" }
+            ]
+          },
+          { "name": "Vücut Aksesuarı" },
+          { "name": "Choker" },
+          {
+            "name": "Set & Takım",
+            "subcategories": [
+              { "name": "Altın Set" },
+              { "name": "Gümüş Set" },
+              { "name": "Pırlanta Set" },
+              { "name": "Bijuteri Set" },
+              { "name": "Çelik Set" },
+              { "name": "Elmas Set & Takım" },
+              { "name": "Kristal Set & Takım" },
+              { "name": "Zirkon Set & Takım" }
+            ]
+          },
+          { "name": "Bilezik" },
+          { "name": "Hızma" },
+          { "name": "Piercing" },
+          {
+            "name": "Kıkırdak Küpe",
+            "subcategories": [
+              { "name": "Gümüş Kıkırdak Küpe" },
+              { "name": "Bijuteri Kıkırdak Küpe" },
+              { "name": "Altın Kıkırdak Küpe" },
+              { "name": "Pırlanta Kıkırdak Küpe" }
+            ]
+          },
+          { "name": "İnci Set" },
+          { "name": "Charm" },
+          { "name": "Charm Taşıyıcı" },
+          { "name": "Kolye ucu" }
+        ]
+      },
+      {
+        "name": "Çanta",
+        "subcategories": [
+          { "name": "Abiye Çanta" },
+          { "name": "Laptop & Evrak Çantası" },
+          { "name": "Portföy & Clutch Çanta" },
+          { "name": "Postacı Çantası" },
+          { "name": "Sırt Çantası" },
+          { "name": "Spor Çantası" },
+          { "name": "Valiz & Bavul" },
+          { "name": "Plaj Çantası" },
+          { "name": "Omuz Çantası" },
+          { "name": "Beslenme Çantası" },
+          { "name": "Okul Çantası" },
+          { "name": "Bel Çantası" },
+          { "name": "Cüzdan" },
+          { "name": "Kartlık" },
+          { "name": "El Çantası" },
+          { "name": "Valiz Kılıfı" },
+          { "name": "Çanta Aksesuarı" }
+        ]
+      },
+      {
+        "name": "Atkı & Bere & Eldiven",
+        "subcategories": [
+          { "name": "Atkı" },
+          { "name": "Bere" },
+          { "name": "Eldiven" },
+          { "name": "Boyunluk" },
+          { "name": "Atkı & Bere & Eldiven Set" },
+          { "name": "Atkı & Bere Set" }
+        ]
+      },
+      {
+        "name": "Kemer & Pantolon Askısı",
+        "subcategories": [
+          { "name": "Kemer" },
+          { "name": "Pantolon Askısı" }
+        ]
+      },
+      {
+        "name": "Kravat & Kol Düğmesi",
+        "subcategories": [
+          { "name": "Kol Düşmesi" },
+          { "name": "Mendil" },
+          { "name": "Papyon" },
+          { "name": "Kravat" }
+        ]
+      },
+      {
+        "name": "Altın",
+        "subcategories": [
+          { "name": "Tam Altın" },
+          { "name": "Çeyrek Altın" },
+          { "name": "Gram Altın" },
+          { "name": "Yarım Altın" },
+          { "name": "Cumhuriyet Altını" },
+          { "name": "Reşat Altın" },
+          { "name": "Ata Altın" },
+          { "name": "Yatırımlık Altın Bilezik" },
+          { "name": "Gram Gümüş" },
+          { "name": "Sarrafiye Takı" }
+        ]
+      },
+      {
+        "name": "Diğer Aksesuar",
+        "subcategories": [
+          { "name": "Diğer Aksesuarlar" },
+          { "name": "Şemsiye" },
+          { "name": "Gelin Aksesuarı" },
+          { "name": "Tesbih" },
+          { "name": "Anahtarlık" },
+          { "name": "Geçici Dövme" },
+          { "name": "Broş" },
+          { "name": "Yaka İğnesi" },
+          { "name": "Peruk" },
+          { "name": "Rozet" },
+          { "name": "Saat Kordonu" }
+        ]
+      },
+      {
+        "name": "Şal & Fular",
+        "subcategories": [
+          { "name": "Fular" },
+          { "name": "Şal" }
+        ]
+      },
+      {
+        "name": "Gözlük",
+        "subcategories": [
+          { "name": "Güneş Gözlüğü" },
+          { "name": "Gözlük Kabı" },
+          { "name": "Gözlük Aksesuarı" },
+          { "name": "Mavi Işık Korumalı Gözlük" },
+          { "name": "Gözlük Çerçevesi" }
+        ]
+      },
+      {
+        "name": "Saç Aksesuarı",
+        "subcategories": [
+          { "name": "Diğer Saç Aksesuarları" },
+          { "name": "Bandana" },
+          { "name": "Taç" },
+          { "name": "Toka" },
+          { "name": "Saç Bandı" }
+        ]
+      },
+      {
+        "name": "Aksesuar Set"
+      },
+      {
+        "name": "Saat Seti"
+      },
+      {
+        "name": "Gavroş"
+      }
+    ]
+  },
+
+
+ {
+    "name": "Anne & Bebek & Çocuk",
+    "subcategories": [
+      {
+        "name": "Çocuk Gereçleri",
+        "subcategories": [
+          {
+            "name": "Bebek Arabası & Puset",
+            "subcategories": [
+              { "name": "3 Tekerlekli Bebek Arabası" },
+              { "name": "Baston Bebek Arabası" },
+              { "name": "Bebek Arabası" },
+              { "name": "İkiz Bebek Arabası" },
+              { "name": "Seyahat Sistem Bebek Arabası" },
+              { "name": "Bebek Arabası Aksesuar" }
+            ]
+          },
+          { "name": "Ana Kucağı" },
+          { "name": "Portbebe & Kanguru" },
+          { "name": "Yütüteç" },
+          { "name": "Bebek & Çocuk Odası" },
+          {
+            "name": "Güvenlik",
+            "subcategories": [
+              { "name": "Telsiz & Kamera & Dedektör" },
+              { "name": "Arabada Güvenlik" },
+              { "name": "Güvenlik Kapısı" },
+              { "name": "Koruyucu Tekstil" },
+              { "name": "Koruyucu ve Kilit" }
+            ]
+          },
+          { "name": "Bebek Salıncağı & Hoppala" },
+          { "name": "Park Yatak & Oyun Parkı" },
+          { "name": "Bebek Bakım Çantası" },
+          {
+            "name": "Mama Sandalyesi & Aksesuarları",
+            "subcategories": [
+              { "name": "Mama Sandalyesi" },
+              { "name": "Mama Sandalyesi Aksesuarları" }
+            ]
+          },
+          {
+            "name": "Oto Koltuğu ve Aksesuarları",
+            "subcategories": [
+              { "name": "Oto Koltuğu" },
+              { "name": "Oto Koltuğu Aksesuarları" }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Oyuncak",
+        "subcategories": [
+          { "name": "Eğitici Oyuncak" },
+          { "name": "Peluş Oyuncak" },
+          {
+            "name": "Akülü & Pedallı Araçlar",
+            "subcategories": [
+              { "name": "Akülü Araç" },
+              { "name": "Akülü Araç Aksesuarları" },
+              { "name": "Pedallı Araç" }
+            ]
+          },
+          {
+            "name": "Scooterlar",
+            "subcategories": [
+              { "name": "Çocuk Scooterı" },
+              { "name": "Scooter" },
+              { "name": "Scooter Aksesuarları" },
+              { "name": "Kask ve Güvenlik Aksesuarları" }
+            ]
+          },
+          {
+            "name": "Deniz & Plaj Malzemeleri",
+            "subcategories": [
+              { "name": "Deniz Malzemesi" },
+              { "name": "Plaj Oyuncakları" },
+              { "name": "Şişme Havuz & Aksesuarları" }
+            ]
+          },
+          { "name": "Oyuncak Bebek ve Aksesuarı" },
+          { "name": "Çocuk Puzzle & Yapboz" },
+          { "name": "Oyun Hamuru" },
+          { "name": "Bahçe Oyuncakları" },
+          {
+            "name": "Bebek & Okul Öncesi Oyuncaklar",
+            "subcategories": [
+              { "name": "Bebek & Aktivite Oyuncakları" },
+              { "name": "Banyo Oyuncakları" },
+              { "name": "Dişlik ve Çıngırak" },
+              { "name": "Dönence ve Projektör" },
+              { "name": "Sallanan Oyuncak" },
+              { "name": "Puset & mama Sandalyesi Oyuncağı" },
+              { "name": "Oyun Halısı" },
+              { "name": "Uyku Arkadaşı" },
+              { "name": "Emekleme Oyuncakları" },
+              { "name": "Kukla" },
+              { "name": "Amigurumi" }
+            ]
+          },
+          { "name": "Oyuncak Silah & Su Tabancası" },
+          { "name": "Kutu Oyunu" },
+          { "name": "Ahşap Oyuncak" },
+          {
+            "name": "Bahçe & Dış Mekan Oyuncakları",
+            "subcategories": [
+              { "name": "Top Havuzu ve Top" },
+              { "name": "Kaydırak" },
+              { "name": "Çocuk Salıncak" },
+              { "name": "Oyun Parkı" },
+              { "name": "Oyun Çadırı" },
+              { "name": "Spor Oyuncakları" }
+            ]
+          },
+          {
+            "name": "Figür Oyuncaklar",
+            "subcategories": [
+              { "name": "Hayvan Figür Oyuncak" },
+              { "name": "Karakter Figür Oyuncak" },
+              { "name": "Diğer Figür Oyuncaklar" },
+              { "name": "Sürpriz Oyuncan Figürü" }
+            ]
+          },
+          {
+            "name": "Oyun Setleri",
+            "subcategories": [
+              { "name": "Müzik Oyuncakları" },
+              { "name": "Alışveriş Seti" },
+              { "name": "Evcilik Mutfak Setleri" },
+              { "name": "Oyuncak Bilim Seti" },
+              { "name": "Meslek Seti" }
+            ]
+          },
+          {
+            "name": "Oyuncak Araçlar",
+            "subcategories": [
+              { "name": "Kumandalı Oyuncak" },
+              { "name": "Oyuncak Araba" },
+              { "name": "Oyuncak Otobüs ve Minibüs" },
+              { "name": "Oyuncak Kamyon ve İş Makinesi" },
+              { "name": "Oyuncak Helikopter ve Uçak" },
+              { "name": "Oyuncak Tren ve Demiryolu" }
+            ]
+          },
+          {
+            "name": "Oyuncak Bebek",
+            "subcategories": [
+              { "name": "Bez Bebek" },
+              { "name": "Et Bebek" },
+              { "name": "Model Bebek" }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Bebek Hediyelik"
+      },
+      {
+        "name": "Anne Bebek Ürünleri",
+        "subcategories": [
+          {
+            "name": "Bebek Banyo & Tuvalet",
+            "subcategories": [
+              { "name": "Bebek Banyo Aksesuarı" },
+              { "name": "Bebek Küveti" },
+              { "name": "Klozet Adaptörü & Lazımlık" }
+            ]
+          },
+          {
+            "name": "Bebek Beslenme Ürünleri",
+            "subcategories": [
+              { "name": "Mama Isıcıtı ve Hazırlayıcı" },
+              { "name": "Beslenme Aksesuarı" },
+              { "name": "Alıştırma Bardağı" },
+              { "name": "Mama Önlüğü" },
+              { "name": "Biberon" },
+              { "name": "Biberon Isıtıcı ve Sterilizatör" },
+              { "name": "Emzik" },
+              { "name": "Mama Seti" },
+              { "name": "Emzik Askısı ve Zinciri" }
+            ]
+          },
+          {
+            "name": "Emzirme Ürünleri",
+            "subcategories": [
+              { "name": "Göğüs Pompası" },
+              { "name": "Emzirme Örtüsü" },
+              { "name": "Emzirme Yastığı" },
+              { "name": "Emzirme ve Süt Saklama Aksesuarı" }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  
+  {
+    "name": "Ayakkabı",
+    "subcategories": [
+      {
+        "name": "Bot & Çizme",
+        "subcategories": [
+          { "name": "Bot" },
+          { "name": "Çizme" },
+          { "name": "Kar Botu" }
+        ]
+      },
+      {
+        "name": "Sandalet ve Terlik",
+        "subcategories": [
+          { "name": "Sandalet" },
+          { "name": "Terlik" },
+          { "name": "Deniz Ayakkabısı" },
+          { "name": "Spor Sandalet" },
+          { "name": "Spor Terlik" }
+        ]
+      },
+      {
+        "name": "Spor Ayakkabı",
+        "subcategories": [
+          { "name": "Basketbol Ayakkabısı" },
+          { "name": "Fitness & Antreman Ayakkabısı" },
+          { "name": "Koşu Ayakkabısı" },
+          { "name": "Halı Saha Ayakkabısı" },
+          { "name": "Outdoor Ayakkabı" },
+          { "name": "Tenis Ayakkabısı" },
+          { "name": "Yürüyüş Ayakkabısı" },
+          { "name": "Sneaker" },
+          { "name": "Voleybol Ayakkabısı" },
+          { "name": "Güreş Ayakkabısı" },
+          { "name": "Boks Ayakkabısı" },
+          { "name": "Krampon" },
+          { "name": "Bisiklet Ayakkabısı" },
+          { "name": "Futsal Ayakkabı" },
+          { "name": "Kaykay Ayakkabıları" },
+          { "name": "Yelken Ayakkabıları" },
+          { "name": "Jimnastik Ayakkabıları" }
+        ]
+      },
+      {
+        "name": "Topuklu Ayakkabı",
+        "subcategories": [
+          { "name": "Abiye Ayakkabı" },
+          { "name": "Dolgu Topuklu Ayakkabı" },
+          { "name": "Klasik Topuklu Ayakkabı" },
+          { "name": "Stiletto" }
+        ]
+      },
+      {
+        "name": "Ev Terliği & Botu",
+        "subcategories": [
+          { "name": "Panduf" },
+          { "name": "Ev Terliği" },
+          { "name": "Patik" },
+          { "name": "Ev Botu" }
+        ]
+      },
+      {
+        "name": "Günlük Ayakkabı",
+        "subcategories": [
+          { "name": "Babet" },
+          { "name": "Casual Ayakkabı" },
+          { "name": "Espadril" },
+          { "name": "Klasik Ayakkabı" },
+          { "name": "Oxford Ayakkabı" },
+          { "name": "Loafer Ayakkabı" }
+        ]
+      },
+      {
+        "name": "Ayakkabı Ürünleri",
+        "subcategories": [
+          { "name": "Ayakkabı Boyası" },
+          { "name": "Ayakkabı Cilası" },
+          { "name": "Ayakkabı Spreyi" },
+          { "name": "Ayakkabı Bakım Süngeri" },
+          { "name": "Ayakkabı Kalıbı" },
+          { "name": "Ayakkabı Bağcığı" }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bahçe & Elektrikli El Aletleri",
+    "subcategories": [
+      {
+        "name": "Bahçe",
+        "subcategories": [
+          {
+            "name": "Mangal & Barbekü",
+            "subcategories": [
+              { "name": "Mangal" },
+              { "name": "Mangal Aksesuarları" },
+              { "name": "Piknik Seti" },
+              { "name": "Odunlu Semaver" },
+              { "name": "Kuzine ve Soba" },
+              { "name": "Şömine" },
+              { "name": "Isıtma Yakıtları" },
+              { "name": "Şömine ve Soba Ekipmanları" }
+            ]
+          },
+          {
+            "name": "Bahçe Sulama",
+            "subcategories": [
+              { "name": "Hortum Bağlantısı" },
+              { "name": "Hortum ve Toplama Ürünleri" },
+              { "name": "Sulama Başlıkları" },
+              { "name": "Fıskiye" },
+              { "name": "Su Zamanlayıcı" },
+              { "name": "Bahçe Muslukları" },
+              { "name": "Bitki Sulama Kabı" },
+              { "name": "Su Deposu" }
+            ]
+          },
+          {
+            "name": "Bahçe Dekorasyonu",
+            "subcategories": [
+              { "name": "Bahçe Aydınlatması" },
+              { "name": "Bahçe Gizleme Ağı" },
+              { "name": "Çitler" },
+              { "name": "Dış Mekan Korunma" },
+              { "name": "Bambu & Meşale" },
+              { "name": "Bahçe Kovası" },
+              { "name": "Bahçe & Balkon Isıtma" },
+              { "name": "Bahçe Yer Döşemesi" }
+            ]
+          },
+          {
+            "name": "Bahçe Makineleri",
+            "subcategories": [
+              { "name": "Yüksek Basınçlı Yıkama" },
+              { "name": "Elektrikli Testere" },
+              { "name": "Çim Biçme Makinesi" },
+              { "name": "Çapa Makinesi" },
+              { "name": "Zincirli Ağaç Kesme Makinesi" },
+              { "name": "Tırpan" },
+              { "name": "Su Motoru ve Pompa" },
+              { "name": "Çit Kesme Makinesi" },
+              { "name": "Topiari & Çim Biçme Makası" },
+              { "name": "Bahçe Süpürücüsü" },
+              { "name": "Hayvancılık Makineleri" },
+              { "name": "Bahçe Traktörü" },
+              { "name": "Dal Budama Makinesi" },
+              { "name": "Bahçe Makine Yağı" },
+              { "name": "Bahçe Makine Aksesuarları" },
+              { "name": "Meyve & Sebze Toplama Makinesi" },
+              { "name": "Toprak Burgu Makinesi" },
+              { "name": "Yaprak Toplama Üfleme Makinesi" },
+              { "name": "Çim Havalandırma Makinesi" },
+              { "name": "Sisleme İlaçlama Makinesi" },
+              { "name": "Yaprak ve Dal Öğütme Makinesi" },
+              { "name": "Kenar Kesme Makinesi" }
+            ]
+          },
+          {
+            "name": "Çiçek & Bitki Yetiştirme",
+            "subcategories": [
+              { "name": "Hediyelik Fidanlar" },
+              { "name": "Saksı" },
+              { "name": "Aşılı Güller" },
+              { "name": "Teraryum & Sukulentler" },
+              { "name": "Tıbbi Aromatik Bitkiler" },
+              { "name": "Çiçek Soğanları" },
+              { "name": "İç Mekan Bitkileri" },
+              { "name": "Gübre" },
+              { "name": "Hobi Bahçesi" },
+              { "name": "Çiçekli Bodur Bitkiler" },
+              { "name": "Dış Mekan Sarmaşık Bitkileri" },
+              { "name": "Dış Mekan Ağaçları" },
+              { "name": "Aşılı Meyve Fidanları" },
+              { "name": "Fideler" },
+              { "name": "Tohumlar" },
+              { "name": "Torf ve Topraklar" },
+              { "name": "Sera ve Sera Ekipmanları" },
+              { "name": "Kaktüs" },
+              { "name": "Bitki Besini ve Vitamin" }
+            ]
+          },
+          {
+            "name": "Küçük El Aletleri",
+            "subcategories": [
+              { "name": "Kırpma Makası" },
+              { "name": "Bahçe El Aleti Setleri" },
+              { "name": "Çim & Çit Makası" },
+              { "name": "Yedek Bıçaklar" },
+              { "name": "Misina" },
+              { "name": "Tırmık" },
+              { "name": "Mala" },
+              { "name": "Fide Dikici ve Sökücü" },
+              { "name": "Budama Testeresi" },
+              { "name": "Aşı Makası" },
+              { "name": "Bahçe Eldiveni" },
+              { "name": "El Çapası" },
+              { "name": "Kazma" },
+              { "name": "Kürek" },
+              { "name": "Orak" },
+              { "name": "Budama Makası" }
+            ]
+          },
+          {
+            "name": "Havuz Ürünleri",
+            "subcategories": [
+              { "name": "Havuz Dekorasyonu" },
+              { "name": "Havuz Temizlik Malzemeleri" },
+              { "name": "Havuz Kimyasalları" },
+              { "name": "Havuz Temizlik Makinesi" },
+              { "name": "Havuz Aydınlatma" },
+              { "name": "Havuz Kenar Ekipmanları" },
+              { "name": "Dezenfeksiyon Ürünleri" },
+              { "name": "Havuz Isıtma Ekipmanları" },
+              { "name": "Havuz Pompası" }
+            ]
+          },
+          { "name": "Bungalov Ev" },
+          { "name": "Prefabrik Ev" },
+          { "name": "Depolama Evleri" }
+        ]
+      },
+      {
+        "name": "Elektrikli El Aletleri",
+        "subcategories": [
+          { "name": "Kaynak Makinesi" },
+          { "name": "Ölçüm Cihazı" },
+          { "name": "Polisaj Makinesi" },
+          { "name": "Kanal Açma Makinesi" },
+          { "name": "Planya" },
+          { "name": "Havalı Aletler" },
+          { "name": "Freze" },
+          { "name": "Elektrikli Zımpara" },
+          { "name": "Karot Makinesi" },
+          { "name": "Taş Motor" },
+          { "name": "Boya Tabancası" },
+          { "name": "Karıştırıcı" },
+          { "name": "Taşlama" },
+          { "name": "Sıcak Hava Tabancası" },
+          { "name": "Saç ve Sünger Kesme" },
+          { "name": "Hava Kompresörü" },
+          { "name": "Endüstriyel Temizleme" },
+          { "name": "Ahşap & Metal Kesme" },
+          { "name": "Matkap" },
+          { "name": "Seramik Kesme Makinesi" },
+          { "name": "Kaldırma Ekipmanları" },
+          { "name": "Somun Sıkma Makinesi" },
+          { "name": "Pafta Makinesi" },
+          { "name": "Akülü Vidalama" },
+          { "name": "Kırıcı Delici & Kırıcı" },
+          { "name": "Döşeme & Çivi & Zımba Çakma" },
+          { "name": "Tilki Kuyruğu" },
+          { "name": "Hobi Makineleri ve Aksesuarları" },
+          { "name": "Dekupaj Testere" },
+          { "name": "Daire Testere" },
+          { "name": "Elektrikli El Aleti Aküleri" },
+          {
+            "name": "Elektrikli El Aleti Aksesuar",
+            "subcategories": [
+              { "name": "El Aleti Aksesuar Seti" },
+              { "name": "Matkap Ucu" },
+              { "name": "Zımpara Ucu" },
+              { "name": "Daire Testere Bıçakları" },
+              { "name": "Panter Testere Bıçakları" },
+              { "name": "Freze Ucu" },
+              { "name": "Dekupaj Testere Bıçakları" },
+              { "name": "Matkap Aksesuarları" }
+            ]
+          },
+          { "name": "Metal Dedektörü" },
+          { "name": "Lazer Ölçüm Cihazı" },
+          { "name": "Termometre & Nem Ölçer" },
+          { "name": "Multimetre" }
+        ]
+      },
+      {
+        "name": "Enerji Sistemleri",
+        "subcategories": [
+          { "name": "Jeneratör" },
+          { "name": "Güneş Paneli" },
+          { "name": "Jel Akü" },
+          { "name": "İnverter" },
+          { "name": "Güç İstanyonları" },
+          { "name": "Şarj Regülatörü" },
+          { "name": "Hazır Güneş Enerji Sistemleri" },
+          { "name": "Rüzgar Türbini" }
+        ]
+      }
+    ]
+  },
+  
+  {
+    "name": "Banyo & Yapı Hırdavat",
+    "subcategories": [
+      {
+        "name": "Hırdavat",
+        "subcategories": [
+          {
+            "name": "İş Güvenlik Ürünleri",
+            "subcategories": [
+              { "name": "İş Güvenlik Seti" },
+              { "name": "Baret" },
+              { "name": "İş Eldiveni" },
+              { "name": "İş Güvenliği Gözlük" },
+              { "name": "İş Güvenliği Kulaklık" },
+              { "name": "İş Güvenliği Maske" },
+              { "name": "Maske Filtresi" },
+              { "name": "İş Yağmurluğu & Montu" },
+              { "name": "İş Güvenlik Tabelası" },
+              { "name": "İkaz Ürünü" },
+              { "name": "Uyarı ve Yönlendirme Levhası" },
+              { "name": "İş Güvenliği Elbisesi" },
+              {
+                "name": "İş Güvenliği Boneleri",
+                "subcategories": [
+                  { "name": "Cerrahi Bone" },
+                  { "name": "Aşçı/Şef Bone" }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Manuel El Aletleri",
+            "subcategories": [
+              { "name": "Maket Bıçak" },
+              { "name": "Yan Keski" },
+              { "name": "Pense" },
+              { "name": "Çekiç" },
+              { "name": "Keser" },
+              { "name": "Kürek" },
+              { "name": "Kargaburun" },
+              { "name": "Kerpeten" },
+              { "name": "Testere" },
+              { "name": "Su Terasizi" },
+              { "name": "Tornavida" },
+              { "name": "İskarpela" },
+              { "name": "Eğe Seti" },
+              { "name": "Lehim & Havya" },
+              { "name": "Anahtar" },
+              { "name": "Lokma Seti" },
+              { "name": "Silikon Tabancası" },
+              { "name": "Kablo Makarası" },
+              { "name": "Çizim İpi" },
+              { "name": "Gönye" },
+              { "name": "İşkence Aleti" },
+              { "name": "Perçin" },
+              { "name": "Kesici Makas" },
+              { "name": "Balta" },
+              { "name": "Yassı Keski" },
+              { "name": "El Zımparası" },
+              { "name": "Mengene" },
+              { "name": "Şerit Metre" },
+              { "name": "Kumpas" },
+              { "name": "Kontrol Kalemi" }
+            ]
+          },
+          { "name": "Vida & Çivi & Dübel" },
+          { "name": "Profesyonel Temizlik Ürünü" },
+          { "name": "Takım Tezgah ve Panosu" },
+          { "name": "Yapıştırıcı ve Bant" },
+          { "name": "Derz Ürünü" },
+          { "name": "Posta Kutusu" },
+          { "name": "Mobilya Hırdavatı" },
+          { "name": "Silikon" },
+          { "name": "Kapı Hırdavatı" },
+          { "name": "Takım Çantası & Avadanlık" },
+          { "name": "Kutu ve Ambalaj Malzemesi" },
+          { "name": "Genel Bakım Spreyi" },
+          { "name": "Rötuş ve İşaretleme Kalemi" },
+          { "name": "Kapı Stoperi" },
+          { "name": "Akordiyon Kapı" },
+          { "name": "Kapı & Pencere Bantı" },
+          { "name": "Menfez" },
+          { "name": "Nem Alıcı" },
+          { "name": "Rulman" },
+          { "name": "Sinek Perdesi" },
+          { "name": "Merdiven" },
+          { "name": "Doğalgaz Hortumu" },
+          { "name": "Seramik ve Yer Döşemesi" },
+          { "name": "Yalıtım Malzemesi" },
+          { "name": "Duvar & Cephe Kaplama" },
+          { "name": "Sanayi Tipi Fan" },
+          { "name": "PVC Boru" },
+          { "name": "İş Ayakkabı & Çizmesi" },
+          { "name": "İş Kıyafeti" },
+          {
+            "name": "Isınma &  Soğutma Sistemleri",
+            "subcategories": [
+              { "name": "Oda Termostatı" },
+              { "name": "Panel Radyatör" },
+              { "name": "Tavan Vantilatörü" },
+              { "name": "Havlupan" },
+              { "name": "Endüstriyel Isıtıcı" },
+              { "name": "Panel Radyatör Aksesuarı" },
+              { "name": "Tavan Vantilatörü Aksesuarları" }
+            ]
+          },
+          { "name": "Taşıma Arabası" },
+          { "name": "Çelik Kapı" },
+          { "name": "Panel Kapı" },
+          { "name": "Madeni Yağdanlık" },
+          { "name": "Süpürgelik" },
+          { "name": "Parke" },
+          { "name": "Teşhir Ekipmanı" },
+          { "name": "Merdiven Aparatı" },
+          { "name": "Vestiyer Askısı" },
+          { "name": "Menteşe" },
+          { "name": "Mobilya Kulpu" },
+          { "name": "Mobilya Ayakları" },
+          { "name": "Mobilya Tekerlekleri" },
+          { "name": "Valiz Tekerleği" }
+        ]
+      },
+      {
+        "name": "Boya",
+        "subcategories": [
+          { "name": "Renklendirilmiş Boyalar" },
+          { "name": "Tavan Boyası" },
+          { "name": "Yalıtım Boyası" },
+          { "name": "Sprey Boyalar" },
+          { "name": "Metal Boyası" },
+          { "name": "Astar Boya" },
+          { "name": "Fırça ve Rulo" },
+          { "name": "Ahşap Boya & Vernik" },
+          { "name": "Boya Hazırlık Malzemesi" },
+          { "name": "Boya İnceltici & Çözücü" },
+          { "name": "İç Cephe Boyası" },
+          { "name": "Dış Cephe Boyası" },
+          { "name": "Panel Kapı Boyası" }
+        ]
+      },
+      {
+        "name": "Banyo Yapı Malzemeleri",
+        "subcategories": [
+          { "name": "Duş Sistemi" },
+          { "name": "Banyo Askısı" },
+          { "name": "Banyo Aynası" },
+          { "name": "Ayna Etajeri" },
+          { "name": "Banyo Tesisatı" },
+          { "name": "Duş Teknesi" },
+          { "name": "Jakuzi" },
+          { "name": "Küvet" },
+          { "name": "Duşakabin" },
+          { "name": "El Kurutma Makinesi" },
+          { "name": "Klozet" },
+          { "name": "Lavabo" },
+          { "name": "Eviye" },
+          { "name": "Klozet Kapağı" },
+          { "name": "Pisuvar" },
+          { "name": "Endüstriyel Hijyen Ürünü" },
+          { "name": "Duşakabin Aksesuarları" },
+          {
+            "name": "Bataryalar & Musluklar",
+            "subcategories": [
+              { "name": "Ara Musluk" },
+              { "name": "Banyo Bataryası" },
+              { "name": "Lavabo Bataryası" },
+              { "name": "Bide Bataryası" },
+              { "name": "Eviye Bataryası" },
+              { "name": "Pisuvar Musluğu" },
+              { "name": "Musluk Başlığı" }
+            ]
+          },
+          { "name": "Rezervuar" },
+          {
+            "name": "Yaşlı & Bedensel Engelli Banyo Ürünleri",
+            "subcategories": [
+              { "name": "Tutunma Barı" },
+              { "name": "Açılı Engelli Banyo Aynası" },
+              { "name": "Engelli Banyo Bataryası" },
+              { "name": "Engelli Lavabo Bataryası" },
+              { "name": "Engelli Klozeti" },
+              { "name": "Engelli Klozer Kapağı" },
+              { "name": "Engelli Lavabo" }
+            ]
+          },
+          {
+            "name": "Su Arıtma",
+            "subcategories": [
+              { "name": "Su Arıtma Cihazı" },
+              { "name": "Su Arıtma Cihazı Aksesuarı" },
+              { "name": "Su Arıtma Tankı" }
+            ]
+          },
+          { "name": "Tuvalet Kağıdı Dispanseri" }
+        ]
+      },
+      {
+        "name": "Elektrik Tesisat Malzemeleri",
+        "subcategories": [
+          { "name": "Ampul" },
+          { "name": "Kablo Klipsi" },
+          {
+            "name": "Güvenlik Ürünleri",
+            "subcategories": [
+              { "name": "Kilit" },
+              { "name": "Güvenlik Cihazı" },
+              { "name": "Çelik Para Kasaı" },
+              { "name": "Yangın Söndürücü" },
+              { "name": "Güvenlik Cam Filmi" }
+            ]
+          },
+          { "name": "Sigorta" },
+          { "name": "sigorta Kutusu" },
+          { "name": "Armatür" },
+          {
+            "name": "Priz ve Anahtar",
+            "subcategories": [
+              { "name": "Priz" },
+              { "name": "Lamba Anahtarı" },
+              { "name": "Dimmer" },
+              { "name": "Data Prizi" },
+              { "name": "Nümeris" },
+              { "name": "Priz ve Anahtar Seti" },
+              { "name": "Priz ve Anahtar Çerçevesi" }
+            ]
+          },
+          { "name": "Elektrik Tesisat Kablosu" },
+          { "name": "Kablo Kanalı" },
+          { "name": "Buat Kutusu" },
+          { "name": "Kablo Düzenleyici" },
+          { "name": "Projektör" },
+          { "name": "Solar Aydınlatma" },
+          { "name": "Spot Lamba" },
+          { "name": "Fiş" },
+          { "name": "Priz Dönüştürücü" },
+          { "name": "Enerji Kablosu" },
+          { "name": "Haberleşme Kablosu" },
+          { "name": "Kapı Zili" },
+          { "name": "Diafon" },
+          { "name": "Kapı Otomatiği" },
+          { "name": "Duy" },
+          { "name": "Tranformatör" },
+          { "name": "Balast" },
+          { "name": "Grup Priz Uzatma Kablosu" },
+          { "name": "Elektrik Tesisat Malzemeleri" }
+        ]
+      }
+    ]
+  },
+
+
+  {
+    "name": "Elektronik",
+    "subcategories": [
+     {
+    "name": "Giyilebilir Teknoloji",
+    "subcategories": [
+      {
+        "name": "Kulaklıklar",
+        "subcategories": [
+          { "name": "Kulak içi TWS Bluetooth Kulaklık" },
+          { "name": "Kulak içi Kablolu Kulaklık" },
+          { "name": "Kulak Üstü Kablolu Kulaklık" },
+          { "name": "Kulak Üstü Bluetooth Kulaklık" },
+          { "name": "Boyun Bantlı Bluetooth Kulaklık" }
+        ]
+      },
+      { "name": "Akıllı Bileklik" },
+      { "name": "Akıllı Saat" },
+      { "name": "Sanal Gerçeklik Gözlüğü" },
+      { "name": "Akıllı Çocuk Saati" }
+    ]
+  },
+  {
+    "name": "Kişisel Bakım Aletleri",
+    "subcategories": [
+      { "name": "Tıraş Makinesi" },
+      { "name": "Saç Kurutma Makinesi" },
+      { "name": "Saç Düzleştirici" },
+      { "name": "Saç Maşası" },
+      { "name": "Epilatör" },
+      { "name": "Tartı" },
+      { "name": "IPLI Lazer Epilasyonu" },
+      { "name": "Kişisel Bakım Yedek Parça" }
+    ]
+  },
+  {
+    "name": "Tablet Grubu",
+    "subcategories": [
+      { "name": "Tablet" },
+      { "name": "Grafik Tablet" },
+      { "name": "Yenilenmiş Tablet" },
+      { "name": "Çocuk Çizim Tableti" }
+    ]
+  },
+  {
+    "name": "Telefon",
+    "subcategories": [
+      { "name": "Telsiz & Masaüstü Telefon" },
+      { "name": "Tuşlu Cep Telefonu" },
+      {
+        "name": "Akıllı Cep Telefonu",
+        "subcategories": [
+          { "name": "Android Cep Telefonu" },
+          { "name": "IOS Cep Telefonu" },
+          { "name": "İthalatçı Garantili Telefon" }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Akıllı Ev Aletleri",
+    "subcategories": [
+      { "name": "Televizyon" },
+      { "name": "Hava Nemlendirici" },
+      { "name": "Hava Temizleyici" },
+      { "name": "Robot Süpürge" },
+      { "name": "Akıllı Aydınlatma" },
+      { "name": "Akıllı Ev Aletleri" }
+    ]
+  },
+  {
+    "name": "Bilgisayar Grubu",
+    "subcategories": [
+      {
+        "name": "Yazıcı & Tarayıcı",
+        "subcategories": [
+          {
+            "name": "Yazıcılar",
+            "subcategories": [
+              { "name": "Lazer Yazıcı" },
+              { "name": "Mürekkep Püskürtmeli Yazıcı" },
+              { "name": "Tanklı Yazıcı" },
+              { "name": "3D Yazıcı" }
+            ]
+          },
+          {
+            "name": "Tarayıcılar",
+            "subcategories": [
+              { "name": "Tarayıcı" },
+              { "name": "Barkod Okuyucu" }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Monitörler",
+        "subcategories": [
+          { "name": "Monitör" },
+          { "name": "Oyuncu Monitör" }
+        ]
+      },
+      {
+        "name": "Bileşenler",
+        "subcategories": [
+          { "name": "Bilgisayar Yedek Parça" },
+          {
+            "name": "Temel Bileşenler",
+            "subcategories": [
+              { "name": "Anakart" },
+              { "name": "Harddisk" },
+              { "name": "İşlemci" },
+              { "name": "Bellek (RAM)" },
+              { "name": "Ekran Kartı" },
+              { "name": "Bilgisayar Kasası" },
+              { "name": "Power Supply (PSU)" },
+              { "name": "SSD (Solid State Driver)" }
+            ]
+          },
+          {
+            "name": "Yan Bileşenler",
+            "subcategories": [
+              { "name": "Optik Sürücü" },
+              { "name": "Server Donanımı" },
+              { "name": "Ses Kartı" },
+              { "name": "Soğutucu ve Overlock" },
+              { "name": "TV Kartı" }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Bilgisayarlar",
+        "subcategories": [
+          {
+            "name": "Dizüstü Bilgisayarlar",
+            "subcategories": [
+              { "name": "Dizüstü Bilgisayar" },
+              { "name": "Oyuncu Dizüstü Bilgisayar" }
+            ]
+          },
+          {
+            "name": "Masaüstü Bilgisayarlar",
+            "subcategories": [
+              { "name": "Masaüstü Bilgisayar" },
+              { "name": "All-in-One Monitör PC" },
+              { "name": "Oyuncu Masaüstü Bilgisayarı" },
+              { "name": "Mini Masaüstü Bilgisayar" },
+              { "name": "Toplama Bilgisayar" }
+            ]
+          },
+          {
+            "name": "Yenilenmiş Bilgisayarlar",
+            "subcategories": [
+              { "name": "Yenilenmiş Mini Masaüstü Bilgisayar" },
+              { "name": "Yenilenmiş Masaüstü Bilgisayar" },
+              { "name": "Yenilenmiş Oyuncu Masaüstü Bilgisayarı" },
+              { "name": "Yenilenmiş Oyuncu Dizüstü Bilgisayar" },
+              { "name": "Yenilenmiş All-in-One Monitör PC" },
+              { "name": "Yenilenmiş Dizüstü Bilgisayar" }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Kahve Makinesi",
+    "subcategories": [
+      { "name": "Kahve & Baharat Öğütücü" },
+      { "name": "Elektronik Kahve Öğütücü" }
+    ]
+  },
+  {
+    "name": "Elektrikli Ev Aletleri & Aksesuar",
+    "subcategories": [
+      { "name": "Süpürge Aksesuarları" },
+      { "name": "Dikiş Makinesi Aksesuarları" },
+      { "name": "Çay & Kahve Makinesi Aksesuar" },
+      { "name": "Blender Yedek Parça" },
+      { "name": "Ütü Yedek Parça" }
+    ]
+  },
+  {
+    "name": "Yiyecek & İçecek Hazırlama",
+    "subcategories": [
+      {
+        "name": "Yiyecek Hazırlama",
+        "subcategories": [
+          { "name": "Doğrayıcı & Rondo" },
+          { "name": "Mikser & Mikser Seti" },
+          { "name": "Tost Makinesi" },
+          { "name": "Fritöz" },
+          { "name": "Ekmek Yapma Makinesi" },
+          { "name": "Ekmek Kızartma Makinesi" },
+          { "name": "Blender Seti" },
+          { "name": "Diğer Elektrikli Pişiriciler" },
+          { "name": "Kıyma Makinesi" },
+          { "name": "Vakum Makinesi" },
+          { "name": "Mısır Patlatma Makinesi" },
+          { "name": "Yoğurt Yapma Makinesi" },
+          { "name": "Elektronik Çeyiz Seti" },
+          { "name": "Yumurta Pişirme Makinesi" },
+          { "name": "Çok Amaçlı Pişirici" },
+          { "name": "Mutfak Tartısı" },
+          { "name": "Kişisel Blender" },
+          { "name": "Waffle Makinesi" }
+        ]
+      },
+      {
+        "name": "İçecek Hazırlama",
+        "subcategories": [
+          { "name": "Meyve & Sebze Sıkacağı" },
+          { "name": "Su Isıtıcı & Kettle" },
+          { "name": "Çay Makinesi" },
+          { "name": "Türk Kahvesi Makinesi" },
+          { "name": "Filtre Kahve Makinesi" },
+          { "name": "Espresso & Cappucino Makinesi" },
+          { "name": "Soda Makinesi" }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Süpürge & Ütü",
+    "subcategories": [
+      {
+        "name": "Ütü",
+        "subcategories": [
+          { "name": "Buharlı Ütü" },
+          { "name": "Buhar Kazanlı Ütü" },
+          { "name": "Buharlı Dikey Ütü" }
+        ]
+      },
+      {
+        "name": "Süpürge",
+        "subcategories": [
+          { "name": "Dik Süpürge" },
+          { "name": "Toz Torbalı Süpürge" },
+          { "name": "Torbasız Süpürge" },
+          { "name": "Halı Yıkama Makinesi" },
+          { "name": "Buharlı Temizleyici" }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Kamera",
+    "subcategories": [
+      { "name": "Foto & Kamera Aksesuarları" },
+      {
+        "name": "Dijital Kameralar",
+        "subcategories": [
+          { "name": "Video Kamera" },
+          { "name": "Aynasız Fotoğraf Makinesi" },
+          { "name": "Dijital Fotoğraf Makinesi" },
+          { "name": "DSLR Fotoğraf Makinesi" }
+        ]
+      },
+      { "name": "Fotoğraf Makinesi Aksesuarları" }
+    ]
+  },
+  {
+    "name": "Oyun & Oyun Konsolları",
+    "subcategories": [
+      {
+        "name": "Konsol Aksesuarları",
+        "subcategories": [
+          { "name": "Konsol Gamepad ve Joystick" },
+          { "name": "Mobil Oyun Aksesuarları" }
+        ]
+      },
+      { "name": "Bilgisayar Oyunu" },
+      { "name": "Diğer Oyun Konsolları" },
+      {
+        "name": "Playstation Konsolları",
+        "subcategories": [
+          { "name": "Playstation 2" },
+          { "name": "Playstation 3" },
+          { "name": "Playstation 4" },
+          { "name": "Playstation 5" },
+          { "name": "Playstation Aksesuarları" }
+        ]
+      },
+      {
+        "name": "Playstation Oyunları",
+        "subcategories": [
+          { "name": "PS2 Oyunları" },
+          { "name": "PS3 Oyunları" },
+          { "name": "PS4 Oyunları" },
+          { "name": "PS5 Oyunları" }
+        ]
+      },
+      {
+        "name": "Nintendo Konsolları ve Aksesuarları",
+        "subcategories": [
+          { "name": "Nintendo Konsolu" },
+          { "name": "Nintendo Aksesuarları" }
+        ]
+      },
+      { "name": "Nintendo Oyunu" },
+      {
+        "name": "Xbox Konsolları ve Aksesuarları",
+        "subcategories": [
+          { "name": "Xbox Konsolu" },
+          { "name": "Xbox Aksesuarı" }
+        ]
+      },
+      { "name": "Xbox Oyunu" }
+    ]
+  },
+  {
+    
+        "name": "Beyaz Eşya & İklimlendirme",
+        "subcategories": [
+          {
+            "name": "İklimlendirme",
+            "subcategories": [
+              { "name": "Hava Perdesi" },
+              { "name": "Klima" },
+              { "name": "Kombi" },
+              { "name": "Portatif Soğutucu" },
+              { "name": "Isıtıcı" },
+              { "name": "Şofben" },
+              { "name": "Termosifon" },
+              { "name": "Vantilatör" },
+              { "name": "Diğer Isıtıcılar" },
+              { "name": "Yağlı Radyatör" },
+              { "name": "Elektrikli Soba" },
+              { "name": "Fanlı Isıtıcı" },
+              { "name": "Konvektör" },
+              { "name": "Isıtıcı Ayağı & Aparat" },
+              { "name": "Isı Pompası" }
+            ]
+          },
+          { "name": "Beyaz Eşya Yedek Parça" },
+          {
+            "name": "Beyaz Eşya",
+            "subcategories": [
+              { "name": "Ankastre" },
+              { "name": "Aspiratör" },
+              { "name": "Bulaşık Makinesi" },
+              { "name": "Buzdolabı" },
+              { "name": "Çamaşır Makinesi" },
+              { "name": "Davlumbaz" },
+              { "name": "Derin Dondurucu" },
+              { "name": "Fırın" },
+              { "name": "Kurutma Makinesi" },
+              { "name": "Ocak" },
+              { "name": "Su Sebili" },
+              { "name": "Mikrodalga Fırın" },
+              { "name": "Mini & Midi Fırın" },
+              { "name": "Beyaz Eşya Set" }
+            ]
+          }
+        ]
+      
+    
+  },
+      {
+        "name": "Elektronik Aksesuarlar",
+        "subcategories": [
+          {
+            "name": "TV & Görüntü & Ses Sistemleri",
+            "subcategories": [
+              { "name": "Ev Sinema Sistemi", "subcategories": [] },
+              {
+                "name": "Görüntü ve Ses Kabloları",
+                "subcategories": [
+                  { "name": "Ses Kablosu Dönüştürücüsü", "subcategories": [] },
+                  { "name": "Scart Kablo", "subcategories": [] },
+                  { "name": "Uzatıcı & Çoklayıcı", "subcategories": [] },
+                  { "name": "HDMI Kablo", "subcategories": [] },
+                  { "name": "Ses Kablosu", "subcategories": [] }
+                ]
+              },
+              {
+                "name": "TV Aksesuarları",
+                "subcategories": [
+                  { "name": "TV Ekran Koruyucu", "subcategories": [] },
+                  { "name": "Uzaktan Kumanda", "subcategories": [] },
+                  { "name": "TV Askı Aparatı", "subcategories": [] },
+                  { "name": "TV Ekran Temizleme Ürünü", "subcategories": [] },
+                  { "name": "TV Yedek Parça", "subcategories": [] }
+                ]
+              },
+              { "name": "Uydu Alıcı", "subcategories": [] },
+              {
+                "name": "Uydu Alıcı ve Aksesuarları",
+                "subcategories": [
+                  { "name": "Uydu Yön Bulucu", "subcategories": [] },
+                  { "name": "Uydu Santrali", "subcategories": [] },
+                  { "name": "Çanak Anten", "subcategories": [] },
+                  { "name": "Uydu Konnektörü", "subcategories": [] },
+                  { "name": "Lnb", "subcategories": [] },
+                  { "name": "Switch", "subcategories": [] },
+                  { "name": "Uydu Bölücü", "subcategories": [] }
+                ]
+              },
+              { "name": "Hoparlör Ayak & Askısı", "subcategories": [] },
+              { "name": "Kablosuz Ses & Görüntü Aktarıcı", "subcategories": [] },
+              {
+                "name": "Projeksiyon Cihaz ve Aksesuarları",
+                "subcategories": [
+                  { "name": "Projeksiyon Perdesi", "subcategories": [] },
+                  { "name": "Projeksiyon Sunum Kumandası", "subcategories": [] },
+                  { "name": "Projeksiyon Askı Aparatı", "subcategories": [] }
+                ]
+              },
+              {
+                "name": "Ses Sistemleri",
+                "subcategories": [
+                  { "name": "Media Player", "subcategories": [] },
+                  { "name": "DVD & Blu-Ray Oynatıcı", "subcategories": [] },
+                  { "name": "DVR Kayıt Cihazı", "subcategories": [] },
+                  { "name": "Sinema Sistemi", "subcategories": [] },
+                  { "name": "Ev Tipi Subwoofer", "subcategories": [] },
+                  { "name": "Receiver Amfi", "subcategories": [] },
+                  { "name": "Portatif Sistem", "subcategories": [] },
+                  { "name": "Stereo Amfi", "subcategories": [] }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Cep Telefonu Aksesuarları",
+            "subcategories": [
+              { "name": "Kapak & Kılıf", "subcategories": [] },
+              { "name": "Araç İçi Telefon Tutucu", "subcategories": [] },
+              {
+                "name": "Cep Telefonu Yedek Parçaları",
+                "subcategories": [
+                  { "name": "Telefon Bataryası", "subcategories": [] },
+                  { "name": "Telefon Ekranı", "subcategories": [] },
+                  { "name": "Telefon Kasası", "subcategories": [] },
+                  { "name": "Telefon Tuş Takımı", "subcategories": [] },
+                  { "name": "Telefon Kategorisi", "subcategories": [] }
+                ]
+              },
+              { "name": "Ekran Koruyucu Film", "subcategories": [] },
+              { "name": "Selfie Çubuğu", "subcategories": [] },
+              { "name": "Kulaklık Kılıfı", "subcategories": [] },
+              {
+                "name": "Güç Ürünleri",
+                "subcategories": [
+                  { "name": "Powerbank", "subcategories": [] }
+                ]
+              },
+              { "name": "Akıllı Takip Cihazı", "subcategories": [] },
+              {
+                "name": "Şarj Cihazları",
+                "subcategories": [
+                  { "name": "Şarj Aleti", "subcategories": [] },
+                  { "name": "Şarj Adaptörü", "subcategories": [] },
+                  { "name": "Araç Şarj Cihazı", "subcategories": [] },
+                  { "name": "Kablosuz Şarj Cihazı", "subcategories": [] }
+                ]
+              },
+              {
+                "name": "Şarj Kabloları",
+                "subcategories": [
+                  { "name": "Şarj Kablosu", "subcategories": [] },
+                  { "name": "Kablo Aksesuarları", "subcategories": [] }
+                ]
+              },
+              { "name": "Kulaklık Aksesuarı", "subcategories": [] },
+              { "name": "Kamera Lens Koruyucu", "subcategories": [] }
+            ]
+          },
+          {
+            "name": "Bilgisayar Aksesuarları",
+            "subcategories": [
+              {
+                "name": "Ağ - Modem",
+                "subcategories": [
+                  { "name": "Elektronik Devre Elemanı", "subcategories": [] },
+                  { "name": "VDSL Modem", "subcategories": [] },
+                  { "name": "ADSL Modem", "subcategories": [] },
+                  { "name": "Access Point", "subcategories": [] },
+                  { "name": "Network Aksesuarları", "subcategories": [] },
+                  { "name": "Menzil Genişletici", "subcategories": [] },
+                  { "name": "Router", "subcategories": [] },
+                  { "name": "Wireless Adaptör", "subcategories": [] },
+                  { "name": "Ağ Modem Switch", "subcategories": [] },
+                  { "name": "4G Taşınabilir Modem", "subcategories": [] },
+                  { "name": "Powerline Ürünü", "subcategories": [] },
+                  { "name": "4G Modem & Router", "subcategories": [] }
+                ]
+              },
+              { "name": "Kablo & Adaptör", "subcategories": [] },
+              {
+                "name": "Veri Depolama",
+                "subcategories": [
+                  { "name": "Çoklu Depolama Ünitesi", "subcategories": [] },
+                  { "name": "Hafıza Kartı", "subcategories": [] },
+                  { "name": "Taşınabilir Hard Disk", "subcategories": [] },
+                  { "name": "Taşınabilir SSD", "subcategories": [] },
+                  { "name": "USB", "subcategories": [] },
+                  { "name": "Hard Disk", "subcategories": [] },
+                  { "name": "Veri Depolama Aksesuarı", "subcategories": [] }
+                ]
+              },
+              { "name": "Fiziksel Yazılım Ürünleri", "subcategories": [] },
+              {
+                "name": "Yazıcı Sarf Malzemeleri",
+                "subcategories": [
+                  { "name": "Kartuş", "subcategories": [] },
+                  { "name": "Toner", "subcategories": [] },
+                  { "name": "Yazıcı Mürekkebi", "subcategories": [] },
+                  { "name": "Filament", "subcategories": [] },
+                  { "name": "Kartuş Dolum Seti", "subcategories": [] },
+                  { "name": "Diğer Yazıcı Sarf Malzemeleri", "subcategories": [] }
+                ]
+              },
+              {
+                "name": "Oyuncu Donanımları",
+                "subcategories": [
+                  { "name": "Oyuncu Kulaklık", "subcategories": [] },
+                  { "name": "Oyuncu Mouse", "subcategories": [] },
+                  { "name": "Oyuncu Klavyesi", "subcategories": [] },
+                  { "name": "Yayıncı Aksesuarları", "subcategories": [] },
+                  { "name": "Oyuncu Klavye Mouse Set", "subcategories": [] }
+                ]
+              },
+              { "name": "Monitör Aksesuarları", "subcategories": [] },
+              {
+                "name": "Çevre Birimleri",
+                "subcategories": [
+                  { "name": "Klavye", "subcategories": [] },
+                  { "name": "Mouse", "subcategories": [] },
+                  { "name": "Güç Kaynağı & UPS", "subcategories": [] },
+                  { "name": "Mousepad", "subcategories": [] },
+                  { "name": "Webcam", "subcategories": [] },
+                  { "name": "Monitör Aparatı", "subcategories": [] },
+                  { "name": "Bilgisayar Hoparlörü", "subcategories": [] },
+                  { "name": "Klavye Mouse Set", "subcategories": [] }
+                ]
+              },
+              { "name": "Akıllı Ev Sistemleri", "subcategories": [] },
+              {
+                "name": "Kablo & Sarf Malzemeler",
+                "subcategories": [
+                  { "name": "Çeviri Dönüştürücü", "subcategories": [] },
+                  { "name": "Data Kablosu", "subcategories": [] },
+                  { "name": "Güç Kablosu", "subcategories": [] },
+                  { "name": "Network Kablosu", "subcategories": [] },
+                  { "name": "USB Hub Çoklayıcı", "subcategories": [] },
+                  { "name": "Dönüştürücü", "subcategories": [] }
+                ]
+              },
+              {
+                "name": "Notebook Aksesuarları",
+                "subcategories": [
+                  { "name": "Notebook Soğutucu", "subcategories": [] },
+                  { "name": "Notebook Standı", "subcategories": [] },
+                  { "name": "Notebook Adaptörü", "subcategories": [] },
+                  { "name": "Notebook Çantası", "subcategories": [] },
+                  { "name": "Notebook Koruyucu", "subcategories": [] }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Tablet Aksesuarları",
+            "subcategories": [
+              { "name": "Tablet Kılıfı", "subcategories": [] },
+              { "name": "Tablet Standı", "subcategories": [] },
+              { "name": "Tablet Kalemi", "subcategories": [] },
+              { "name": "Tablet Ekran Koruyucu", "subcategories": [] }
+            ]
+          },
+          {
+            "name": "Giyilebilir Teknoloji Aksesuarları",
+            "subcategories": [
+              {
+                "name": "Akıllı Bileklik Aksesuarları",
+                "subcategories": [
+                  { "name": "Akıllı Bileklik Kordon", "subcategories": [] },
+                  { "name": "Akıllı Bileklik Ekran Koruyucu", "subcategories": [] }
+                ]
+              },
+              {
+                "name": "Akıllı Saat Aksesuarları",
+                "subcategories": [
+                  { "name": "Akıllı Saat Kordon", "subcategories": [] },
+                  { "name": "Akıllı Saat Ekran Koruyucu", "subcategories": [] }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+   
+    ]
+  },
+
+
+  
+  {
+    "name": "Ev & Mobilya",
+    "subcategories": [
+      {
+        "name": "Mobilya",
+        "subcategories": [
+          {
+            "name": "Halı & Kilim",
+            "subcategories": [
+              { "name": "Halı" },
+              { "name": "Kilim" },
+              { "name": "Yolluk" },
+              { "name": "Kapı Önü Paspası" },
+              { "name": "Çocuk Halısı" },
+              { "name": "Halı Örtüsü" },
+              { "name": "Mutfak Halısı" },
+              { "name": "Seccade" }
+            ]
+          },
+          {
+            "name": "Elektrik & Aydınlatma",
+            "subcategories": [
+              { "name": "Abajur" },
+              { "name": "Aplik" },
+              { "name": "Avize" },
+              { "name": "Lambader" },
+              { "name": "Masa ve Gece Lambası" }
+            ]
+          },
+          {
+            "name": "Perde",
+            "subcategories": [
+              { "name": "Tül Perde" },
+              { "name": "Fon Perde" },
+              { "name": "Stor Perde" },
+              { "name": "Cibinlik" },
+              { "name": "Perde Aksesuarı" }
+            ]
+          },
+          {
+            "name": "Ofis Mobilyaları",
+            "subcategories": [
+              { "name": "Ergonomi Ürünü" },
+              { "name": "Ofis Aksesuarı" },
+              { "name": "Ofis Dolapları" },
+              { "name": "Ofis Koltuk ve Kanepesi" },
+              { "name": "Ofis Masası" },
+              { "name": "Ofis Sehpası" },
+              { "name": "Kasa" },
+              { "name": "Keson" },
+              { "name": "Oyuncu Koltuğu" },
+              { "name": "Oyuncu Masası" },
+              { "name": "Ofis Takımı" }
+            ]
+          },
+          {
+            "name": "Antre & Hol",
+            "subcategories": [
+              { "name": "Dresuar" },
+              { "name": "Askılık" },
+              { "name": "Portmanto" },
+              { "name": "Ayakkabılık" },
+              { "name": "Sandık" },
+              { "name": "Tabure" }
+            ]
+          },
+          {
+            "name": "Çalışma Odası",
+            "subcategories": [
+              { "name": "Kitaplık" },
+              { "name": "Çalışma Masası" },
+              { "name": "Çalışma Sandalyesi" },
+              { "name": "Dergilik & Gazetelik" },
+              { "name": "Laptop Sehpası" }
+            ]
+          },
+          {
+            "name": "Bahçe Mobilyaları",
+            "subcategories": [
+              { "name": "Bahçe Masası" },
+              { "name": "Bahçe Sandalyesi" },
+              { "name": "Bahçe Takımı" },
+              { "name": "Salıncak & Hamak" },
+              { "name": "Şemsiye & Tente" },
+              { "name": "Şezlong" },
+              { "name": "Armut Koltuk" },
+              { "name": "Saksılık" },
+              { "name": "Bahçe Dolabı" },
+              { "name": "Bahçe Minderi" },
+              { "name": "Bahçe Koruma Örtüsü" }
+            ]
+          },
+          {
+            "name": "Salon & Oturma Odası",
+            "subcategories": [
+              {
+                "name": "Kanepe & Koltuklar",
+                "subcategories": [
+                  { "name": "Berjer" },
+                  { "name": "Kanepe" },
+                  { "name": "Köşe Takımı" },
+                  { "name": "Puf & Bench" },
+                  { "name": "TV koltuğu" },
+                  { "name": "Koltuk Takımı" },
+                  { "name": "Şark Köşesi" },
+                  { "name": "Çay Seti Koltuk Takımı" }
+                ]
+              },
+              { "name": "Duvar Rafı" },
+              {
+                "name": "Sehpa",
+                "subcategories": [
+                  { "name": "Orta Sehpa" },
+                  { "name": "Yan Sehpa" },
+                  { "name": "Zigon" }
+                ]
+              },
+              { "name": "TV Sehpa & Ünitesi" },
+              { "name": "Şaraplık & Servis Arabası" }
+            ]
+          },
+          {
+            "name": "Yatak Odası",
+            "subcategories": [
+              { "name": "Komodin" },
+              { "name": "Baza" },
+              { "name": "Dolap ve Gardırop" },
+              { "name": "Karyola" },
+              { "name": "Makyaj Masası & Tuvalet Masası" },
+              { "name": "Yatak" },
+              { "name": "Yatak & Baza Başlığı" },
+              { "name": "Yatak Odası Takımı" },
+              { "name": "Bez Dolap" },
+              { "name": "Takı ve Aksesuar Dolapları" },
+              { "name": "Yatak Pedi & Şiltesi" },
+              { "name": "Şifonyer" }
+            ]
+          },
+          {
+            "name": "Yemek Odası",
+            "subcategories": [
+              { "name": "Vitrin & Gümüşlük" },
+              { "name": "Konsol" },
+              { "name": "Yemek Odası Sandalyesi" },
+              { "name": "Yemek Masası" },
+              { "name": "Yemek Odası Takımı" }
+            ]
+          },
+          {
+            "name": "Mutfak & Banyo Mobilyası",
+            "subcategories": [
+              {
+                "name": "Banyo Mobilyası",
+                "subcategories": [
+                  { "name": "Banyo Rafları" },
+                  { "name": "Banyo Dolabı Seti" },
+                  { "name": "Çamaşır Makinesi Dolabı" }
+                ]
+              },
+              {
+                "name": "Mutfak Mobilyası",
+                "subcategories": [
+                  {
+                    "name": "Mutfak Dolapları",
+                    "subcategories": [
+                      { "name": "Çok Amaçlı Dolap" },
+                      { "name": "Hazır Mutfak Dolapları" },
+                      { "name": "Mutfak Rafı" }
+                    ]
+                  },
+                  { "name": "Mutfak Masası" },
+                  { "name": "Mutfak Masası Takımı" },
+                  { "name": "Mutfak Sandalyesi" },
+                  { "name": "Tabure" }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Bebek & Çocuk Mobilyası",
+            "subcategories": [
+              { "name": "Oyun & Aktivite Masası" },
+              { "name": "Bebek Odası Takımı" },
+              { "name": "Beşik" },
+              { "name": "Bebek Odası Sandalye & Koltuk" },
+              { "name": "Çocuk Odası Takımı" },
+              { "name": "Genç Odası Takımı" },
+              { "name": "Ranza" },
+              { "name": "Çocuk Dolap & Gardırop" },
+              { "name": "Çocuk & Montessori Kitaplık" },
+              { "name": "Çocuk Komodin & Şifonyer" },
+              { "name": "Oyuncak Dolabı" },
+              { "name": "Arabalı Yatak" },
+              { "name": "Çocuk Çalışma Masası" },
+              { "name": "Öğrenme Kulesi" },
+              { "name": "Çocuk & Montessori Karyola" }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Ev",
+        "subcategories": [
+          {
+            "name": "Banyo",
+            "subcategories": [
+              {
+                "name": "Banyo Tekstili",
+                "subcategories": [
+                  { "name": "Havlu" },
+                  { "name": "Mutfak Havlusu" },
+                  { "name": "Banyo Perdesi" },
+                  { "name": "Bornoz" },
+                  { "name": "Banyo Paspası" },
+                  { "name": "Peştemal" }
+                ]
+              },
+              {
+                "name": "Banyo Aksesuarları",
+                "subcategories": [
+                  { "name": "Banyo Düzenleyici" },
+                  { "name": "Banyo Seti" },
+                  { "name": "Tuvalet Fırçası" },
+                  { "name": "Diş Fırçalık" },
+                  { "name": "Sabunluk" },
+                  { "name": "Tuvalet Kağıdı" }
+                ]
+              },
+              {
+                "name": "Bebek & Çocuk Banyo",
+                "subcategories": [
+                  { "name": "Bebek & Çocuk Bornoz" },
+                  { "name": "Bebek & Çocuk Havlu" }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Ev Dekorasyon",
+            "subcategories": [
+              { "name": "Ayna" },
+              { "name": "Çerçeve" },
+              { "name": "Masa Saati" },
+              { "name": "Tablo" },
+              { "name": "Dekoratif Obje ve Biblo" },
+              { "name": "Kapı Süsü" },
+              { "name": "Kırlent & Kırlent Kılıfı" },
+              { "name": "Mum & Kandil" },
+              { "name": "Vazo" },
+              { "name": "Şamdan & Mumluk" },
+              { "name": "Yapay & Kuru Çiçek" },
+              { "name": "Küllük" },
+              { "name": "Dekoratif Tabak & Kase" },
+              { "name": "Yapışkanlı Folyo" },
+              {
+                "name": "Sanat Eseri",
+                "subcategories": [
+                  { "name": "Resim" },
+                  { "name": "Fotoğraf" },
+                  { "name": "Baskı ve Gravür" },
+                  { "name": "Seramik ve Cam" },
+                  { "name": "Dijital Baskı" },
+                  { "name": "Fotoğraf" },
+                  { "name": "Geleneksel Türk Sanatları" },
+                  { "name": "Heykel" },
+                  { "name": "Kolaj" }
+                ]
+              },
+              { "name": "Dekoratif Kutu" },
+              { "name": "Kitap Tutucu" },
+              { "name": "Magnet" },
+              { "name": "Tütsü ve Buhurdanlık" },
+              { "name": "Paravan ve Seperatör" },
+              { "name": "Oda Kokusu" },
+              { "name": "Poster" },
+              {
+                "name": "Duvar Dekorasyonu",
+                "subcategories": [
+                  { "name": "Duvar Örtüsü" },
+                  { "name": "Duvar Sticker" },
+                  { "name": "Duvar Dekorasyon Ürünü" },
+                  { "name": "Duvar Saati" },
+                  { "name": "Duvar Kağıdı" }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Ev Gereçleri",
+            "subcategories": [
+              { "name": "Ütü Masası ve Aksesuarı" },
+              { "name": "Pazar Arabası & Çantası" },
+              { "name": "Çöp Kovası" },
+              { "name": "Damacana Pompası" },
+              {
+                "name": "Depolama & Düzenleme Ürünleri",
+                "subcategories": [
+                  { "name": "Askı" },
+                  { "name": "Sepet" },
+                  { "name": "Ayakkabı Düzenleyici" },
+                  { "name": "Hurç" },
+                  { "name": "Saklama Kutusu" },
+                  { "name": "Makyaj & Takı Organizeri" },
+                  { "name": "Dolap İçi Düzenleyici" },
+                  { "name": "Buzdolabı Düzenleyici" },
+                  { "name": "Bavul İçi Düzenleyici" }
+                ]
+              },
+              {
+                "name": "Plastik Ev Gereçleri",
+                "subcategories": [
+                  { "name": "Kalorifer Suluk" },
+                  { "name": "Cam Silme Aparatı" },
+                  { "name": "Faraş" },
+                  { "name": "Gırgır" }
+                ]
+              },
+              {
+                "name": "Çamaşırlık Ev Gereçleri",
+                "subcategories": [
+                  { "name": "Çamaşır Kurutmalık" },
+                  { "name": "Çamaşır Sepeti" },
+                  { "name": "Çamaşır İpi & Mandal" },
+                  { "name": "Çamaşır Yıkama Topu & Filesi" }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Ev Tekstili",
+            "subcategories": [
+              {
+                "name": "Mutfak Tekstili",
+                "subcategories": [
+                  { "name": "Mutfak Önlüğü & Eldiven" }
+                ]
+              },
+              {
+                "name": "Yatak Odası Tekstili",
+                "subcategories": [
+                  { "name": "Alez" },
+                  {
+                    "name": "Battaniye",
+                    "subcategories": [
+                      { "name": "Tek Kişilik Battaniye" },
+                      { "name": "Çift Kişilik Battaniye" },
+                      { "name": "Battal Boy Battaniye" },
+                      { "name": "Giyilebilir Battaniye" },
+                      { "name": "Elektrikli Battaniye" }
+                    ]
+                  },
+                  {
+                    "name": "Çarşaf & Çarşaf Takımı",
+                    "subcategories": [
+                      { "name": "Tek Kişilik Çarşaf Takımı" },
+                      { "name": "Çift Kişilik Çarşaf Takımı" },
+                      { "name": "Battal Boy Çarşaf Takımı" }
+                    ]
+                  },
+                  {
+                    "name": "Nevresim Takımı",
+                    "subcategories": [
+                      { "name": "Tek Kişilik Nevresim" },
+                      { "name": "Çift Kişilik Nevresim" },
+                      { "name": "Battal Boy Nevresim" }
+                    ]
+                  },
+                  {
+                    "name": "Pike & Pike Takımı",
+                    "subcategories": [
+                      { "name": "Tek Kişilik Pike Takımı" },
+                      { "name": "Çift Kişilik Pike Takımı" },
+                      { "name": "Battal Boy Pike Takımı" }
+                    ]
+                  },
+                  {
+                    "name": "Uyku Seti",
+                    "subcategories": [
+                      { "name": "Tek Kişilik Uyku Seti" },
+                      { "name": "Çift Kişilik Uyku Seti" },
+                      { "name": "Battal Boy Uyku Seti" }
+                    ]
+                  },
+                  {
+                    "name": "Yastık & Yastık Kılıfı",
+                    "subcategories": [
+                      { "name": "Yastık" },
+                      { "name": "Yastık Kılıfı" },
+                      { "name": "Yastık Alezi" }
+                    ]
+                  },
+                  {
+                    "name": "Yatak Örtüsü",
+                    "subcategories": [
+                      { "name": "Tek Kişilik Yatak Örtüsü" },
+                      { "name": "Çift Kişilik Yatak Örtüsü" },
+                      { "name": "Battal Boy Yatak Örtüsü" }
+                    ]
+                  },
+                  {
+                    "name": "Yorgan",
+                    "subcategories": [
+                      { "name": "Tek Kişilik Yorgan" },
+                      { "name": "Çift Kişilik Yorgan" },
+                      { "name": "Battal Boy Yorgan" }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "Salon Tekstili",
+                "subcategories": [
+                  { "name": "Masa Örtüsü" },
+                  { "name": "Sandalye Minderi" },
+                  { "name": "Koltuk Örtüsü" },
+                  { "name": "Sandalye Kılıfı" }
+                ]
+              },
+              {
+                "name": "Bebek & Çocuk Ev Tekstili",
+                "subcategories": [
+                  { "name": "Bebek & Çocuk Battaniyesi" },
+                  { "name": "Bebek & Çocuk Çarşaf Takımı" },
+                  { "name": "Bebek & Çocuk Nevresim Takımı" },
+                  { "name": "Bebek & Çocuk Pike Takımı" },
+                  { "name": "Bebek & Çocuk Uyku Seti" },
+                  { "name": "Bebek & Çocuk Yastık Kılıfı" },
+                  { "name": "Bebek & Çocuk Yatak Örtüsü" },
+                  { "name": "Bebek & Çocuk Yorgan" }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Sofra & Mutfak",
+            "subcategories": [
+              {
+                "name": "Sofra",
+                "subcategories": [
+                  { "name": "Runner & Amerikan Servisi" },
+                  { "name": "Kahvaltı Takımı" },
+                  { "name": "Yemek Takımı" },
+                  { "name": "Bardak" },
+                  { "name": "Sürahi ve Karaf" },
+                  { "name": "Tabak" },
+                  { "name": "Kase" },
+                  { "name": "Tepsi" },
+                  { "name": "Kadeh" },
+                  { "name": "Çatal & Kaşık & Bıçak" },
+                  { "name": "Bardak Altlığı" },
+                  { "name": "Nihale" },
+                  { "name": "Fondü Seti" },
+                  { "name": "Peçelelik" },
+                  { "name": "Servis Seti" },
+                  { "name": "Sütlük" },
+                  { "name": "Şekerlik" },
+                  { "name": "Kahve Fincanı" },
+                  { "name": "Kupa" },
+                  { "name": "Tuzluk & Biberlik" },
+                  { "name": "Çay Fincanı" },
+                  { "name": "Buz Kovası" }
+                ]
+              },
+              {
+                "name": "Pişirme",
+                "subcategories": [
+                  { "name": "Cezve" },
+                  { "name": "Tava" },
+                  { "name": "Tencere" },
+                  { "name": "Fırın ve Kek Kalıbı" },
+                  { "name": "Çaydanlık" },
+                  { "name": "Düdüklü Tencere" },
+                  { "name": "Buharda Pişirme Aparatı" },
+                  { "name": "Sahan" },
+                  { "name": "Tencere Yedek Parça ve Aksesuar" },
+                  { "name": "Çaydanlık Yedek Parça ve Aksesuar" }
+                ]
+              },
+              {
+                "name": "Yemek Hazırlık",
+                "subcategories": [
+                  { "name": "Kesme Tahtası" },
+                  { "name": "Rende" },
+                  { "name": "Süzgeç" },
+                  { "name": "Yağdanlık" },
+                  { "name": "Havan" },
+                  { "name": "Salata Kurutucu" },
+                  { "name": "Kahve ve Baharat Öğütücü Değirmen" },
+                  { "name": "Limon Sıkacağı" },
+                  { "name": "Sarımsak Ezici" },
+                  { "name": "Mutfak Makası" },
+                  { "name": "Bıçak Bileyici ve Masat" },
+                  { "name": "Bıçak ve Bıçak Seti" },
+                  { "name": "Un Eleği" },
+                  { "name": "Yumurta Fırçası" },
+                  { "name": "Spatula" },
+                  { "name": "Çırpıcı" },
+                  { "name": "Oklava" },
+                  { "name": "Hamur Şekillendirici" },
+                  { "name": "El Rondosu" },
+                  { "name": "Şişe Açacağı" },
+                  { "name": "Manuel Kıyma Makinesi" },
+                  { "name": "Tirbuşon" },
+                  { "name": "Soyacak" },
+                  { "name": "Ceviz ve Fındık Kıracağı" },
+                  { "name": "Shaker & Kokteyl Seti" }
+                ]
+              },
+              {
+                "name": "Mutfak Saklama ve Düzenleme",
+                "subcategories": [
+                  { "name": "Baharatlık" },
+                  { "name": "Bulaşıklık" },
+                  { "name": "Ekmek Kutusu ve Sepeti" },
+                  { "name": "Kaşıklık" },
+                  { "name": "Kavanoz" },
+                  { "name": "Sebzelik" },
+                  { "name": "Buz Kalıbı" },
+                  { "name": "Saklama Kabı" },
+                  { "name": "Kahvaltılık" }
+                ]
+              },
+              {
+                "name": "Endüstriyel Mutfak Ekipmanı"
+              },
+              {
+                "name": "Çay ve Kahve Demleme",
+                "subcategories": [
+                  { "name": "French Press" },
+                  { "name": "Moka Pot" },
+                  { "name": "Dripper" },
+                  { "name": "Demlik" },
+                  { "name": "Çay Süzgeci" },
+                  { "name": "Aeropress" },
+                  { "name": "Syphon" },
+                  { "name": "Chemex" }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Giyim",
+    "subcategories": [
+      { "name": "Abiye & Mezuniyet Elbiseleri" },
+      { "name": "Gelinlik" },
+      {
+        "name": "İç Giyim",
+        "subcategories": [
+          { "name": "Çorap" },
+          { "name": "Babydoll" },
+          { "name": "Kombinezon" },
+          { "name": "Jartiyer" },
+          { "name": "Korse" },
+          { "name": "Sütyen" },
+          { "name": "Slip" },
+          { "name": "Boxer" },
+          { "name": "String" },
+          { "name": "İç Giyim Aksesuarları" },
+          { "name": "Atlet" },
+          { "name": "Külot" },
+          { "name": "Spor Sütyeni" },
+          { "name": "Termal Giyim & İçlik" },
+          { "name": "Fanila" },
+          { "name": "İç Çamaşır Takımı" },
+          { "name": "Diyabetik Çorap" }
+        ]
+      },
+      {
+        "name": "Plaj Giyim",
+        "subcategories": [
+          { "name": "Bikini Altı" },
+          { "name": "Bikini üstü" },
+          { "name": "Bikini Takımı" },
+          { "name": "Deniz Şortu" },
+          { "name": "Mayo" },
+          { "name": "Pareo" },
+          { "name": "Tankini" },
+          { "name": "Plaj Elbisesi" },
+          { "name": "Mayokini" },
+          { "name": "Slip Mayo" },
+          { "name": "Plaj Havlusu" },
+          { "name": "Plaj Giyim Seti" }
+        ]
+      },
+      {
+        "name": "Takımlar",
+        "subcategories": [
+          { "name": "Alt - ÜSt Takım" }
+        ]
+      },
+      { "name": "Takım Elbise" },
+      { "name": "Kimono & Kaftan" },
+      {
+        "name": "Bebek Giyim",
+        "subcategories": [
+          { "name": "Bebek Body & Zıbın" },
+          { "name": "Bebek Takımı" },
+          { "name": "Hastane Çıkışı" },
+          {
+            "name": "Bebek Tulumu",
+            "subcategories": [
+              { "name": "Uyku Tulumu" },
+              { "name": "Astronot Tulum" }
+            ]
+          },
+          { "name": "Müslin Bez" }
+        ]
+      },
+      { "name": "Elbise" },
+      { "name": "Kostüm" },
+      {
+        "name": "Salopet & Tulum",
+        "subcategories": [
+          { "name": "Salapot" },
+          { "name": "Tulum" }
+        ]
+      },
+      {
+        "name": "Hamile Giyim",
+        "subcategories": [
+          { "name": "Hamile Gömlek" },
+          { "name": "Hamile Pançosu" },
+          {
+            "name": "Hamile Bluz & Tunik",
+            "subcategories": [
+              { "name": "Hamile Bluz" },
+              { "name": "Hamile Tunik" }
+            ]
+          },
+          { "name": "Hamile Taytı" },
+          {
+            "name": "Hamile Kazak & Hırka",
+            "subcategories": [
+              { "name": "Hamile Kazağı" },
+              { "name": "Hamile Hırkası" }
+            ]
+          },
+          { "name": "Hamile Gecelik" },
+          { "name": "Hamile Pantolonu" },
+          { "name": "Hamile Body" },
+          {
+            "name": "Hamile Salopet & Tulum",
+            "subcategories": [
+              { "name": "Hamile Tulumu" },
+              { "name": "Hamile Salopeti" }
+            ]
+          },
+          {
+            "name": "Hamile Kaban & Mont",
+            "subcategories": [
+              { "name": "Hamile Kabanı" },
+              { "name": "Hamile Montu" },
+              { "name": "Hamile Paltosu" }
+            ]
+          },
+          { "name": "Hamile Çorabı" },
+          { "name": "Hamile T-Shirt" },
+          {
+            "name": "Hamile Ceket & Yelek"
+          },
+          {
+            "name": "Hamile Plaj Giyim",
+            "subcategories": [
+              { "name": "Hamile Bikini Altı" },
+              { "name": "Hamile Bikini Üstü" },
+              { "name": "Hamile Bikini Takımı" },
+              { "name": "Hamile Mayosu" }
+            ]
+          },
+          {
+            "name": "Hamile Eşofman",
+            "subcategories": [
+              { "name": "Hamile Eşofman Altı" },
+              { "name": "Hamile Eşofman Takımı" }
+            ]
+          },
+          { "name": "Hamile Şort & Bermuda" },
+          { "name": "Hamile Etek" },
+          { "name": "Hamile Elbisesi" },
+          { "name": "Lohusa Seti" },
+          {
+            "name": "Hamile İç Giyim",
+            "subcategories": [
+              { "name": "Hamile Atleti" },
+              { "name": "Hamile Korsesi & Bel Bandı" },
+              { "name": "Hamile Külodu" },
+              { "name": "Hamile Sütyeni" },
+              { "name": "Emzirme Atleti" },
+              { "name": "Emzirme Sütyeni" }
+            ]
+          },
+          {
+            "name": "Hamile Alt - Üst Takım"
+          },
+          {
+            "name": "Hamile Pijama",
+            "subcategories": [
+              { "name": "Hamile Pijama Altı" },
+              { "name": "Hamile Pijama Üstü" },
+              { "name": "Hamile Pijama Takımı" }
+            ]
+          },
+          { "name": "Hamile Abiye" },
+          { "name": "Hamile Sweatshirt" },
+          { "name": "Hamile Sabahlık" }
+        ]
+      },
+      { "name": "Mezuniyet Elbisesi" },
+      {
+        "name": "Tesettür Giyim",
+        "subcategories": [
+          { "name": "Eşarp" },
+          { "name": "Kap & Ferace" },
+          { "name": "Tesettür Ceket & Yelek" },
+          { "name": "Tesettür Elbise" },
+          { "name": "Tesettür Panço" },
+          { "name": "Tesettür Bluz & Tunik" },
+          { "name": "Tesettür Kimono & Kaftan" },
+          { "name": "Tesettür Süveter" },
+          { "name": "Tesettür Kazak & Hırka" },
+          { "name": "Tesettür Etek" },
+          { "name": "Tesettür Sweatshirt" },
+          { "name": "Tesettür Tayt" },
+          { "name": "Tesettür Abiye" },
+          { "name": "Tesettür T-Shirt" },
+          { "name": "Tesettür Eşofman" },
+          { "name": "Tesettür Salopet & Tulum" },
+          { "name": "Tesettür Yağmurluk & Rüzgarlık" },
+          { "name": "Tesettür Takımlar" },
+          {
+            "name": "Tesettür Plaj Giyim",
+            "subcategories": [
+              { "name": "Tesettür Mayo" },
+              { "name": "Tesettür Bone" },
+              { "name": "Tesettür Pareo" }
+            ]
+          },
+          { "name": "Tesettür Gömlek" },
+          { "name": "Tesettür Kaban" },
+          { "name": "Tesettür Mont" },
+          { "name": "Tesettür Palto" },
+          { "name": "Tesettür Parka" },
+          { "name": "Tesettür Pantolon" },
+          { "name": "Tesettür Body" },
+          { "name": "Tesettür Mezuniyet Elbisesi" },
+          { "name": "Tesettür Pardesü & Trençkot" }
+        ]
+      },
+      {
+        "name": "Dış Giyim",
+        "subcategories": [
+          { "name": "Panço" },
+          { "name": "Yağmurluk & Rüzgarlık" },
+          {
+            "name": "Ceket & Yelek",
+            "subcategories": [
+              { "name": "Ceket" },
+              { "name": "Yelek" },
+              { "name": "Blazer Ceket" }
+            ]
+          },
+          {
+            "name": "Kaban & Mont",
+            "subcategories": [
+              { "name": "Kaban" },
+              { "name": "Mont" },
+              { "name": "Palto" },
+              { "name": "Parka" }
+            ]
+          },
+          {
+            "name": "Pardesü & Trençkot",
+            "subcategories": [
+              { "name": "Pardesü" },
+              { "name": "Trençkot" }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Alt Giyim",
+        "subcategories": [
+          { "name": "Etek" },
+          { "name": "Pantolon" },
+          { "name": "Şort & Bermuda" },
+          { "name": "Tayt" },
+          {
+            "name": "Eşofman",
+            "subcategories": [
+              { "name": "Eşofman Altı" },
+              { "name": "Eşofman Takımı" }
+            ]
+          },
+          { "name": "Jeans" },
+          { "name": "Kumaş Pantolon" }
+        ]
+      },
+      {
+        "name": "Ev Giyim",
+        "subcategories": [
+          { "name": "Gecelik" },
+          {
+            "name": "Pijama",
+            "subcategories": [
+              { "name": "Pijama Altı" },
+              { "name": "Pijama Takımı" },
+              { "name": "Pijama Üstü" }
+            ]
+          },
+          { "name": "Sabahlık" }
+        ]
+      },
+      {
+        "name": "Üst Giyim",
+        "subcategories": [
+          { "name": "Body" },
+          { "name": "Büstiyer" },
+          { "name": "Gömlek" },
+          { "name": "Sweatshirt" },
+          { "name": "T-Shirt" },
+          { "name": "Bluz" },
+          { "name": "Tunik" },
+          { "name": "Softshell & Polar" },
+          { "name": "Kazak" },
+          { "name": "Hırka" },
+          { "name": "Süveter" },
+          { "name": "Polo Yaka T-Shirt" }
+        ]
+      },
+      {
+        "name": "Büyük Beden",
+        "subcategories": [
+          { "name": "Büyük Beden Elbise" },
+          { "name": "Büyük Beden Etek" },
+          { "name": "Büyük Beden Gömlek" },
+          { "name": "Büyük Beden Abiye Elbise" },
+          { "name": "Büyük Beden Pantolon" },
+          { "name": "Büyük Beden Sweatshirt" },
+          { "name": "Büyük Beden Tayt" },
+          { "name": "Büyük Beden T-Shirt" },
+          { "name": "Büyük Beden Bluz" },
+          { "name": "Büyük Beden Tunik" },
+          { "name": "Büyük Beden Ceket" },
+          { "name": "Büyük Beden Yelek" },
+          { "name": "Büyük Beden Eşofman Altı" },
+          { "name": "Büyük Beden Kaban" },
+          { "name": "Büyük Beden Mont" },
+          { "name": "Büyük Beden Hırka" },
+          { "name": "Büyük Beden Kazak" },
+          { "name": "Büyük Beden Trençkot" },
+          { "name": "Büyük Beden Mayo" },
+          { "name": "Büyük Beden Tulum" },
+          { "name": "Büyük Beden Şort & Bermuda" },
+          { "name": "Büyük Beden Eşofman Takımı" },
+          { "name": "Büyük Beden Abiye Takımı" },
+          { "name": "Büyük Beden Pijama Altı" },
+          { "name": "Büyük Beden Pijama Takımı" },
+          { "name": "Büyük Beden Pijama Üstü" },
+          { "name": "Büyük Beden Alt - Üst Takım" },
+          { "name": "Büyük Beden Bikini Altı" },
+          { "name": "Büyük Beden Bikini Üstü" },
+          { "name": "Büyük Beden Body" },
+          { "name": "Büyük Beden Gecelik" },
+          { "name": "Büyük Beden Külot" },
+          { "name": "Büyük Beden Spor Sütyeni" },
+          { "name": "Büyük Beden Sütyen" },
+          { "name": "Büyük Beden Spor Tayt" },
+          { "name": "Büyük Beden Süveter" },
+          { "name": "Büyük Beden Pareo" },
+          { "name": "Büyük Beden Kimono & Kaftan" },
+          { "name": "Büyük Beden İç Çamaşır Takımı" },
+          { "name": "Büyük Beden Babydoll" },
+          { "name": "Büyük Beden Büstiyer" },
+          { "name": "Büyük Beden Korse" },
+          { "name": "Büyük Beden Fantezi Gecelik" },
+          { "name": "Büyük Beden İç Çamaşırı" },
+          { "name": "Büyük Beden Bikini Takımı" },
+          { "name": "Büyük Beden Külotlu Çorap" },
+          { "name": "Büyük Beden Denim Ceket" },
+          { "name": "Büyük Beden Polo Yaka T-Shirt" },
+          { "name": "Büyük Beden Denir Şortu" }
+        ]
+      },
+      {
+        "name": "Fantezi Giyim",
+        "subcategories": [
+          {
+            "name": "Fantezi İç Giyim",
+            "subcategories": [
+              { "name": "Fantezi Atlet" },
+              { "name": "Fantezi Babydoll" },
+              { "name": "Fantezi Boxer" },
+              { "name": "Fantezi Çorap" },
+              { "name": "Fantezi İç Çamaşır Takımı" },
+              { "name": "Fantezi Jartiyer" },
+              { "name": "Fantezi Külot" },
+              { "name": "Fantezi Slip" },
+              { "name": "Fantezi String" },
+              { "name": "Fantezi Kombinezon" },
+              { "name": "Fantezi Sütyen" },
+              { "name": "Fantezi Gecelik" },
+              { "name": "Fantezi Sabahlık" }
+            ]
+          },
+          { "name": "Fantezi Kostüm" },
+          { "name": "Fantezi Aksesuar" }
+        ]
+      },
+      { "name": "Spor Tulum" },
+      { "name": "Smokin" }
+    ]
+  },
+  
+  {
+    "name": "Hobi & Eğlence",
+    "subcategories": [
+      {
+        "name": "Müzik Alet ve Ekipmanları",
+        "subcategories": [
+          { "name": "Pikap & Gramofon" },
+          { "name": "Plak" },
+          {
+            "name": "Film",
+            "subcategories": [
+              { "name": "Belgesel" },
+              { "name": "Yerli Film" },
+              { "name": "Yabancı Film" },
+              { "name": "Animasyon & Çizgi Film" }
+            ]
+          },
+          { "name": "Yerli Albüm" },
+          { "name": "Bebek & Çocuk Müzikleri" },
+          { "name": "Yabancı Albüm" },
+          { "name": "Diğer Enstürmanlar" },
+          {
+            "name": "Gitar ve Ekipmanları",
+            "subcategories": [
+              { "name": "Amfi" },
+              { "name": "Banjo" },
+              { "name": "Efekt Aleti" },
+              { "name": "Gitar" },
+              { "name": "Gitar Aksesuarı" },
+              { "name": "Gitar Parçaları" },
+              { "name": "Gitar Teli" },
+              { "name": "Mandalin" },
+              { "name": "Ukelele" },
+              { "name": "Pena" }
+            ]
+          },
+          { "name": "Müzik Aleti Aksesuarı" },
+          {
+            "name": "Nefesli Çalgılar",
+            "subcategories": [
+              { "name": "Obua" },
+              { "name": "Korno" },
+              { "name": "Tuba & Suzafon" },
+              { "name": "Trombon" },
+              { "name": "Kaval" },
+              { "name": "Mey" },
+              { "name": "Trompet & Kornet & Flugelhorn" },
+              { "name": "Blok Flüt" },
+              { "name": "Saksafon" },
+              { "name": "Yan Flüt & Pikolo" },
+              { "name": "Melodika" },
+              { "name": "Klarnet" },
+              { "name": "Mızıka" }
+            ]
+          },
+          {
+            "name": "Sahne ve Studyo",
+            "subcategories": [
+              { "name": "Akustik Düzenleme" },
+              { "name": "DJ Ürünleri" },
+              { "name": "Mikrofon ve Aksesuar" },
+              { "name": "PA Ekipmanı" },
+              { "name": "Rack Sistem" },
+              { "name": "Nota ve Enstrüman Standları" },
+              { "name": "Studyo Mikseri" },
+              { "name": "Ses Kabini" },
+              { "name": "Kayıt Teknolojileri" },
+              { "name": "Studyo Kulaklık" }
+            ]
+          },
+          {
+            "name": "Türk Müziği Enstürmanı"
+          },
+          {
+            "name": "Tuşlu Çalgılar",
+            "subcategories": [
+              { "name": "Akordeon" },
+              { "name": "Org" }
+            ]
+          },
+          {
+            "name": "Vurmalı Çalgılar",
+            "subcategories": [
+              { "name": "Baget" },
+              { "name": "Zil" },
+              { "name": "Def" },
+              { "name": "Trampet" },
+              { "name": "Perküsyon" },
+              { "name": "Davul" },
+              { "name": "Darbuka" },
+              { "name": "Bateri" },
+              { "name": "Kalimba" },
+              { "name": "Kajon" },
+              { "name": "Bendir" },
+              { "name": "Conga" }
+            ]
+          },
+          {
+            "name": "Yaylı Çalgılar",
+            "subcategories": [
+              { "name": "Keman" },
+              { "name": "Arşe" },
+              { "name": "Çello" },
+              { "name": "Kemençe" },
+              { "name": "Elektro Yaylı Çalgı" },
+              { "name": "Viyola" },
+              { "name": "Kontrabas" }
+            ]
+          },
+          {
+            "name": "Piyano"
+          },
+          {
+            "name": "Telli Çalgılar",
+            "subcategories": [
+              { "name": "Kanun" },
+              { "name": "Mandolin" },
+              { "name": "Santur" },
+              { "name": "Cümbüş" },
+              { "name": "Ud" },
+              { "name": "Bağlama" }
+            ]
+          },
+          { "name": "Müzik Aleti Kılıfı" },
+          {
+            "name": "Piyano Aksesuarları",
+            "subcategories": [
+              { "name": "Metronom" },
+              { "name": "Piyano Taburesi" },
+              { "name": "Piyano Stant" },
+              { "name": "Piyano Pedalı" }
+            ]
+          },
+          { "name": "Enstürman Teli" },
+          { "name": "Pikap İğnesi" }
+        ]
+      },
+      {
+        "name": "Parti Malzemeleri",
+        "subcategories": [
+          { "name": "Balon" },
+          { "name": "Davetiye" },
+          { "name": "Diğer Parti Malzemeleri" },
+          { "name": "Doğum Günü Süsü" },
+          {
+            "name": "Düğün & Kına & Nikah Malzemeleri",
+            "subcategories": [
+              { "name": "Kına Örtüsü" },
+              { "name": "Söz Dekoru" },
+              { "name": "Söz Tepsisi" },
+              { "name": "Söz Hediyelik" },
+              { "name": "Söz Sepeti" },
+              { "name": "Gelin Çiçeği" },
+              { "name": "Kına Gecesi Seti" },
+              { "name": "Kına Eğlence Aksesuarı" },
+              { "name": "Kına Mumu" },
+              { "name": "Çeyiz Kolisi" },
+              { "name": "Hediyelik Kına" }
+            ]
+          },
+          { "name": "Parti Gözlüğü & Maske" },
+          { "name": "Led Işık" },
+          {
+            "name": "Yılbaşı Ürünleri",
+            "subcategories": [
+              { "name": "Yılbaşı Şapkası" },
+              { "name": "Yılbaşı Ağacı" },
+              { "name": "Yılbaşı Süsü" },
+              { "name": "Yılbaşı Seti" },
+              { "name": "Kar Spreyi" }
+            ]
+          },
+          { "name": "Dilek Feneri" },
+          { "name": "Plastik Tabak" },
+          { "name": "Plastik Çatal" },
+          { "name": "Plastik Kaşık" },
+          { "name": "Plastik Bardak" },
+          { "name": "Plastik Bıçak" },
+          { "name": "Cupcake Standı" },
+          { "name": "Popcorn Kutusu" },
+          { "name": "Pipet" },
+          { "name": "Cupcake Standı" },
+          { "name": "Pasta Kürdanı" },
+          { "name": "Pasta Mumu" },
+          { "name": "Masa Eteği" },
+          { "name": "Plastik Masa Örtüsü" },
+          { "name": "Doğum Günü Yazıları" },
+          { "name": "Parti Seti" },
+          { "name": "Doğum Günü Flaması" },
+          { "name": "Balon Zinciri" },
+          { "name": "Konfeti" },
+          { "name": "Balon Standı" },
+          { "name": "Parti Aksesuarı" },
+          { "name": "Konuşma Balonu" },
+          { "name": "Balon Pompası" },
+          { "name": "Parti Perukları" },
+          { "name": "Parti Taçları" },
+          { "name": "Parti Şapkası" },
+          { "name": "Parti Eldiveni" },
+          { "name": "Parti Kostümü" },
+          { "name": "Parti Peçetesi" }
+        ]
+      },
+      { "name": "Drone", "subcategories": [
+        { "name": "Drone Aksesuarı" },
+        { "name": "SH Kaydı Gerektiren Drone" },
+        { "name": "SH Kaydı Gerektirmeyen Drone" }
+      ]},
+      {
+        "name": "Hobi Malzemeleri",
+        "subcategories": [
+          { "name": "Kumaş" },
+          { "name": "Filografi Malzemesi" },
+          { "name": "Nakış Kiti" },
+          { "name": "Örgü Kiti" },
+          { "name": "Nakış İpi" },
+          { "name": "Örgü İpi" },
+          { "name": "Şiş" },
+          { "name": "Tığ" },
+          { "name": "Keçe Malzemesi" },
+          { "name": "Boncuk" },
+          { "name": "Kurdele" },
+          { "name": "Fermuar" },
+          { "name": "Kasnak" },
+          { "name": "Düğme" },
+          { "name": "Deri" },
+          { "name": "İğne" },
+          { "name": "Ponpon" },
+          { "name": "Rafya" },
+          { "name": "Güpür" },
+          { "name": "Dantel" },
+          { "name": "Tül" },
+          { "name": "Dekoratif Şerit" },
+          { "name": "Terzi Mankeni" }
+        ]
+      },
+      {
+        "name": "Hediyelik Ürünler",
+        "subcategories": [
+          { "name": "Figür" },
+          { "name": "Konsept Hediyelik" },
+          { "name": "Kar Küresi" },
+          { "name": "Hediye Sepeti" },
+          { "name": "Hediye Kutusu" },
+          { "name": "Hediye Poşeti" },
+          { "name": "Müzik Kutusu" },
+          { "name": "Paketleme Malzemesi" },
+          { "name": "Ödül Kupası" },
+          { "name": "Madalya" },
+          { "name": "Kumbara" },
+          { "name": "Kum Saati" }
+        ]
+      },
+      {
+        "name": "Uzaktan Kumandalı Araçlar",
+        "subcategories": [
+          { "name": "Model Araç" },
+          { "name": "Kumandalı Araç" },
+          { "name": "Akıllı Robot" },
+          { "name": "Robotik Malzeme" },
+          {
+            "name": "RC Araçlar",
+            "subcategories": [
+              { "name": "RC Ekipman" },
+              { "name": "RC Yedek Parça" },
+              { "name": "RC İş Makinesi" },
+              { "name": "RC Tır" },
+              { "name": "RC Tank" },
+              { "name": "RC Tren" },
+              { "name": "RC Motosiklet" },
+              { "name": "RC Helikopter" },
+              { "name": "RC Tekne" },
+              { "name": "RC Uçak" },
+              { "name": "RC Araç" },
+              { "name": "RC Araç Yakıtları" }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Oyun Grupları",
+        "subcategories": [
+          { "name": "Puzzle" },
+          { "name": "Maket" },
+          { "name": "Diğer Oyun Takımları" },
+          { "name": "Okey Takımı" },
+          { "name": "Satranç" },
+          { "name": "Tavla" },
+          { "name": "3D Yapboz" },
+          { "name": "Puzzle Halısı" },
+          { "name": "Puzzle Yapıştırıcı" },
+          { "name": "Tombala" },
+          { "name": "Oyun Kartları" },
+          { "name": "Kağıt Oyunu" }
+        ]
+      },
+      {
+        "name": "Tütün & Tütün Aksesuarları",
+        "subcategories": [
+          {
+            "name": "Çakmaklar",
+            "subcategories": [
+              { "name": "Puro Çakmağı" },
+              { "name": "Pipo Çakmağı" },
+              { "name": "Benzinli Çakmak" },
+              { "name": "Klasik Çakmak" },
+              { "name": "Ocak Çakmağı" },
+              { "name": "Çakmak Gazı" },
+              { "name": "Elektronik Çakmak" }
+            ]
+          },
+          {
+            "name": "Pipo & Pipo Malzemeleri",
+            "subcategories": [
+              { "name": "Pipo" },
+              { "name": "Pipo Aksesuarı" },
+              { "name": "Pipo Temizleme Çubuğu" },
+              { "name": "Tütün Saklama Kutusu" },
+              { "name": "Pipo Seti" },
+              { "name": "Pipo Kaşığı" },
+              { "name": "Pipo Sehpası" },
+              { "name": "Pipo Filtresi" },
+              { "name": "Pipo Küllüğü" }
+            ]
+          },
+          {
+            "name": "Puro Malzemeleri",
+            "subcategories": [
+              { "name": "Puro Aksesuarı" },
+              { "name": "Puro Kutusu" },
+              { "name": "Puro Kılıfı" },
+              { "name": "Puro Sehpası" },
+              { "name": "Puro Kesici" },
+              { "name": "Puro Bakımı" },
+              { "name": "Puro Delici" },
+              { "name": "Puro Küllüğü" }
+            ]
+          },
+          {
+            "name": "Nargile & Nargile Aksesuarları",
+            "subcategories": [
+              { "name": "Nargile" },
+              { "name": "Nargile Aksesuarı" }
+            ]
+          },
+          {
+            "name": "Sigara Aksesuarları",
+            "subcategories": [
+              { "name": "Sigara Tabakası" },
+              { "name": "Sigara Ağızlığı" },
+              { "name": "Sigara Ağızlığı Filtresi" },
+              { "name": "Sigara & Cigarillo Kılıfı" }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Kırtasiye & Ofis Malzemeleri"
+  },
+  {
+    "name": "Kozmetik & Kişisel Bakım"
+  },
+  {
+    "name": "Otomobil & Motosiklet"
+  },
+  {
+    "name": "Spor & Outdoor"
+  },
+  {
+    "name": "Supermarket"
+  }
+]

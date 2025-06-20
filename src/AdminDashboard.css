@@ -1,0 +1,344 @@
+
+.admin-dashboard {
+  max-width: 500px;
+  margin: 40px auto;
+  background: #fff;
+  border-radius: 22px;
+  padding: 36px 38px 26px 38px;
+  box-shadow: 0 4px 28px #0001;
+  font-family: 'Inter', Arial, Helvetica, sans-serif;
+}
+
+.admin-dashboard h2 {
+  font-size: 23px;
+  font-weight: 700;
+  margin-bottom: 6px;
+  margin-top: 0;
+  text-align: center;
+  color: #181d32;
+}
+
+.admin-dashboard .desc {
+  color: #667085;
+  font-size: 15px;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.admin-dashboard .welcome {
+  text-align: center;
+  margin-bottom: 22px;
+}
+
+.admin-dashboard .welcome h3 {
+  font-size: 18px;
+  margin-bottom: 5px;
+  font-weight: 600;
+  color: #181d32;
+}
+
+.stats-row {
+  display: flex;
+  gap: 16px;
+  margin-bottom: 26px;
+  justify-content: center;
+}
+
+.stat-box {
+  flex: 1;
+  background: #f6fafe;
+  border-radius: 16px;
+  padding: 20px 12px 16px 12px;
+  box-shadow: 0 2px 8px #0001;
+  text-align: center;
+  min-width: 100px;
+}
+
+.stat-label {
+  color: #718096;
+  font-size: 15px;
+  margin-bottom: 4px;
+}
+
+.stat-value {
+  font-size: 22px;
+  font-weight: 700;
+  color: #2196f3;
+}
+
+.shortcuts-row {
+  display: flex;
+  gap: 16px;
+  margin-bottom: 24px;
+  justify-content: center;
+}
+
+.shortcut-btn {
+  flex: 1;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  background: #f7fafc;
+  color: #181d32;
+  border: none;
+  border-radius: 13px;
+  padding: 18px 8px;
+  font-weight: 600;
+  font-size: 16px;
+  box-shadow: 0 2px 8px #0001;
+  cursor: pointer;
+  transition: background 0.2s;
+  justify-content: center;
+}
+
+.shortcut-btn:hover {
+  background: #e7f1fa;
+}
+
+.shortcut-icon {
+  font-size: 21px;
+}
+
+.last-ops {
+  margin-top: 28px;
+  font-size: 15px;
+  color: #42547a;
+  text-align: left;
+}
+
+.logout-btn {
+  position: absolute;
+  top: 28px;
+  right: 34px;
+  background: #f35e5e;
+  color: #fff;
+  border: none;
+  border-radius: 9px;
+  padding: 9px 18px;
+  font-weight: 600;
+  font-size: 15px;
+  cursor: pointer;
+  transition: background 0.18s;
+  z-index: 20;
+}
+
+.logout-btn:hover {
+  background: #da3838;
+}
+
+/* ------- MOBİL RESPONSIVE ------- */
+@media (max-width: 600px) {
+  .admin-dashboard {
+    max-width: 98vw !important;
+    min-width: 0 !important;
+    padding: 12px 2vw 16px 2vw !important;
+    border-radius: 0 !important;
+    margin: 0 !important;
+    box-shadow: none !important;
+    font-size: 15px !important;
+    position: static !important;
+  }
+
+  .stats-row,
+  .shortcuts-row {
+    flex-direction: column !important;
+    gap: 10px !important;
+    width: 100% !important;
+  }
+
+  .stat-box,
+  .shortcut-btn {
+    width: 100% !important;
+    min-width: 0 !important;
+    border-radius: 12px !important;
+    font-size: 15px !important;
+    padding: 13px 6px !important;
+  }
+
+  .last-ops {
+    margin-top: 20px;
+    font-size: 14px;
+    text-align: left;
+    padding-left: 4px;
+  }
+
+  .logout-btn {
+    top: 12px !important;
+    right: 12px !important;
+    padding: 7px 15px !important;
+    font-size: 14px !important;
+    border-radius: 8px !important;
+  }
+}
+
+.admin-dashboard {
+  max-width: 500px;
+  margin: 40px auto;
+  background: #fff;
+  border-radius: 22px;
+  padding: 36px 38px 26px 38px;
+  box-shadow: 0 4px 28px #0001;
+  font-family: 'Inter', Arial, Helvetica, sans-serif;
+}
+
+.admin-dashboard h2 {
+  font-size: 23px;
+  font-weight: 700;
+  margin-bottom: 6px;
+  margin-top: 0;
+  text-align: center;
+  color: #181d32;
+}
+
+.admin-dashboard .desc {
+  color: #667085;
+  font-size: 15px;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.admin-dashboard .welcome {
+  text-align: center;
+  margin-bottom: 22px;
+}
+
+.admin-dashboard .welcome h3 {
+  font-size: 18px;
+  margin-bottom: 5px;
+  font-weight: 600;
+  color: #181d32;
+}
+
+.stats-row {
+  display: flex;
+  gap: 16px;
+  margin-bottom: 26px;
+  justify-content: center;
+}
+
+.stat-box {
+  flex: 1;
+  background: #f6fafe;
+  border-radius: 16px;
+  padding: 20px 12px 16px 12px;
+  box-shadow: 0 2px 8px #0001;
+  text-align: center;
+  min-width: 100px;
+}
+
+.stat-label {
+  color: #718096;
+  font-size: 15px;
+  margin-bottom: 4px;
+}
+
+.stat-value {
+  font-size: 22px;
+  font-weight: 700;
+  color: #2196f3;
+}
+
+.shortcuts-row {
+  display: flex;
+  gap: 16px;
+  margin-bottom: 24px;
+  justify-content: center;
+}
+
+.shortcut-btn {
+  flex: 1;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  background: #f7fafc;
+  color: #181d32;
+  border: none;
+  border-radius: 13px;
+  padding: 18px 8px;
+  font-weight: 600;
+  font-size: 16px;
+  box-shadow: 0 2px 8px #0001;
+  cursor: pointer;
+  transition: background 0.2s;
+  justify-content: center;
+}
+
+.shortcut-btn:hover {
+  background: #e7f1fa;
+}
+
+.shortcut-icon {
+  font-size: 21px;
+}
+
+.last-ops {
+  margin-top: 28px;
+  font-size: 15px;
+  color: #42547a;
+  text-align: left;
+}
+
+.logout-btn {
+  position: absolute;
+  top: 28px;
+  right: 34px;
+  background: #f35e5e;
+  color: #fff;
+  border: none;
+  border-radius: 9px;
+  padding: 9px 18px;
+  font-weight: 600;
+  font-size: 15px;
+  cursor: pointer;
+  transition: background 0.18s;
+  z-index: 20;
+}
+
+.logout-btn:hover {
+  background: #da3838;
+}
+
+/* ------- MOBİL RESPONSIVE ------- */
+@media (max-width: 600px) {
+  .admin-dashboard {
+    max-width: 98vw !important;
+    min-width: 0 !important;
+    padding: 12px 2vw 16px 2vw !important;
+    border-radius: 0 !important;
+    margin: 0 !important;
+    box-shadow: none !important;
+    font-size: 15px !important;
+    position: static !important;
+  }
+
+  .stats-row,
+  .shortcuts-row {
+    flex-direction: column !important;
+    gap: 10px !important;
+    width: 100% !important;
+  }
+
+  .stat-box,
+  .shortcut-btn {
+    width: 100% !important;
+    min-width: 0 !important;
+    border-radius: 12px !important;
+    font-size: 15px !important;
+    padding: 13px 6px !important;
+  }
+
+  .last-ops {
+    margin-top: 20px;
+    font-size: 14px;
+    text-align: left;
+    padding-left: 4px;
+  }
+
+  .logout-btn {
+    top: 12px !important;
+    right: 12px !important;
+    padding: 7px 15px !important;
+    font-size: 14px !important;
+    border-radius: 8px !important;
+  }
+}

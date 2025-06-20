@@ -1,0 +1,598 @@
+[
+  {
+    "name": "Elektronik",
+    "subcategories": [
+     {
+    "name": "Giyilebilir Teknoloji",
+    "subcategories": [
+      {
+        "name": "Kulaklıklar",
+        "subcategories": [
+          { "name": "Kulak içi TWS Bluetooth Kulaklık" },
+          { "name": "Kulak içi Kablolu Kulaklık" },
+          { "name": "Kulak Üstü Kablolu Kulaklık" },
+          { "name": "Kulak Üstü Bluetooth Kulaklık" },
+          { "name": "Boyun Bantlı Bluetooth Kulaklık" }
+        ]
+      },
+      { "name": "Akıllı Bileklik" },
+      { "name": "Akıllı Saat" },
+      { "name": "Sanal Gerçeklik Gözlüğü" },
+      { "name": "Akıllı Çocuk Saati" }
+    ]
+  },
+  {
+    "name": "Kişisel Bakım Aletleri",
+    "subcategories": [
+      { "name": "Tıraş Makinesi" },
+      { "name": "Saç Kurutma Makinesi" },
+      { "name": "Saç Düzleştirici" },
+      { "name": "Saç Maşası" },
+      { "name": "Epilatör" },
+      { "name": "Tartı" },
+      { "name": "IPLI Lazer Epilasyonu" },
+      { "name": "Kişisel Bakım Yedek Parça" }
+    ]
+  },
+  {
+    "name": "Tablet Grubu",
+    "subcategories": [
+      { "name": "Tablet" },
+      { "name": "Grafik Tablet" },
+      { "name": "Yenilenmiş Tablet" },
+      { "name": "Çocuk Çizim Tableti" }
+    ]
+  },
+  {
+    "name": "Telefon",
+    "subcategories": [
+      { "name": "Telsiz & Masaüstü Telefon" },
+      { "name": "Tuşlu Cep Telefonu" },
+      {
+        "name": "Akıllı Cep Telefonu",
+        "subcategories": [
+          { "name": "Android Cep Telefonu" },
+          { "name": "IOS Cep Telefonu" },
+          { "name": "İthalatçı Garantili Telefon" }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Akıllı Ev Aletleri",
+    "subcategories": [
+      { "name": "Televizyon" },
+      { "name": "Hava Nemlendirici" },
+      { "name": "Hava Temizleyici" },
+      { "name": "Robot Süpürge" },
+      { "name": "Akıllı Aydınlatma" },
+      { "name": "Akıllı Ev Aletleri" }
+    ]
+  },
+  {
+    "name": "Bilgisayar Grubu",
+    "subcategories": [
+      {
+        "name": "Yazıcı & Tarayıcı",
+        "subcategories": [
+          {
+            "name": "Yazıcılar",
+            "subcategories": [
+              { "name": "Lazer Yazıcı" },
+              { "name": "Mürekkep Püskürtmeli Yazıcı" },
+              { "name": "Tanklı Yazıcı" },
+              { "name": "3D Yazıcı" }
+            ]
+          },
+          {
+            "name": "Tarayıcılar",
+            "subcategories": [
+              { "name": "Tarayıcı" },
+              { "name": "Barkod Okuyucu" }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Monitörler",
+        "subcategories": [
+          { "name": "Monitör" },
+          { "name": "Oyuncu Monitör" }
+        ]
+      },
+      {
+        "name": "Bileşenler",
+        "subcategories": [
+          { "name": "Bilgisayar Yedek Parça" },
+          {
+            "name": "Temel Bileşenler",
+            "subcategories": [
+              { "name": "Anakart" },
+              { "name": "Harddisk" },
+              { "name": "İşlemci" },
+              { "name": "Bellek (RAM)" },
+              { "name": "Ekran Kartı" },
+              { "name": "Bilgisayar Kasası" },
+              { "name": "Power Supply (PSU)" },
+              { "name": "SSD (Solid State Driver)" }
+            ]
+          },
+          {
+            "name": "Yan Bileşenler",
+            "subcategories": [
+              { "name": "Optik Sürücü" },
+              { "name": "Server Donanımı" },
+              { "name": "Ses Kartı" },
+              { "name": "Soğutucu ve Overlock" },
+              { "name": "TV Kartı" }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Bilgisayarlar",
+        "subcategories": [
+          {
+            "name": "Dizüstü Bilgisayarlar",
+            "subcategories": [
+              { "name": "Dizüstü Bilgisayar" },
+              { "name": "Oyuncu Dizüstü Bilgisayar" }
+            ]
+          },
+          {
+            "name": "Masaüstü Bilgisayarlar",
+            "subcategories": [
+              { "name": "Masaüstü Bilgisayar" },
+              { "name": "All-in-One Monitör PC" },
+              { "name": "Oyuncu Masaüstü Bilgisayarı" },
+              { "name": "Mini Masaüstü Bilgisayar" },
+              { "name": "Toplama Bilgisayar" }
+            ]
+          },
+          {
+            "name": "Yenilenmiş Bilgisayarlar",
+            "subcategories": [
+              { "name": "Yenilenmiş Mini Masaüstü Bilgisayar" },
+              { "name": "Yenilenmiş Masaüstü Bilgisayar" },
+              { "name": "Yenilenmiş Oyuncu Masaüstü Bilgisayarı" },
+              { "name": "Yenilenmiş Oyuncu Dizüstü Bilgisayar" },
+              { "name": "Yenilenmiş All-in-One Monitör PC" },
+              { "name": "Yenilenmiş Dizüstü Bilgisayar" }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Kahve Makinesi",
+    "subcategories": [
+      { "name": "Kahve & Baharat Öğütücü" },
+      { "name": "Elektronik Kahve Öğütücü" }
+    ]
+  },
+  {
+    "name": "Elektrikli Ev Aletleri & Aksesuar",
+    "subcategories": [
+      { "name": "Süpürge Aksesuarları" },
+      { "name": "Dikiş Makinesi Aksesuarları" },
+      { "name": "Çay & Kahve Makinesi Aksesuar" },
+      { "name": "Blender Yedek Parça" },
+      { "name": "Ütü Yedek Parça" }
+    ]
+  },
+  {
+    "name": "Yiyecek & İçecek Hazırlama",
+    "subcategories": [
+      {
+        "name": "Yiyecek Hazırlama",
+        "subcategories": [
+          { "name": "Doğrayıcı & Rondo" },
+          { "name": "Mikser & Mikser Seti" },
+          { "name": "Tost Makinesi" },
+          { "name": "Fritöz" },
+          { "name": "Ekmek Yapma Makinesi" },
+          { "name": "Ekmek Kızartma Makinesi" },
+          { "name": "Blender Seti" },
+          { "name": "Diğer Elektrikli Pişiriciler" },
+          { "name": "Kıyma Makinesi" },
+          { "name": "Vakum Makinesi" },
+          { "name": "Mısır Patlatma Makinesi" },
+          { "name": "Yoğurt Yapma Makinesi" },
+          { "name": "Elektronik Çeyiz Seti" },
+          { "name": "Yumurta Pişirme Makinesi" },
+          { "name": "Çok Amaçlı Pişirici" },
+          { "name": "Mutfak Tartısı" },
+          { "name": "Kişisel Blender" },
+          { "name": "Waffle Makinesi" }
+        ]
+      },
+      {
+        "name": "İçecek Hazırlama",
+        "subcategories": [
+          { "name": "Meyve & Sebze Sıkacağı" },
+          { "name": "Su Isıtıcı & Kettle" },
+          { "name": "Çay Makinesi" },
+          { "name": "Türk Kahvesi Makinesi" },
+          { "name": "Filtre Kahve Makinesi" },
+          { "name": "Espresso & Cappucino Makinesi" },
+          { "name": "Soda Makinesi" }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Süpürge & Ütü",
+    "subcategories": [
+      {
+        "name": "Ütü",
+        "subcategories": [
+          { "name": "Buharlı Ütü" },
+          { "name": "Buhar Kazanlı Ütü" },
+          { "name": "Buharlı Dikey Ütü" }
+        ]
+      },
+      {
+        "name": "Süpürge",
+        "subcategories": [
+          { "name": "Dik Süpürge" },
+          { "name": "Toz Torbalı Süpürge" },
+          { "name": "Torbasız Süpürge" },
+          { "name": "Halı Yıkama Makinesi" },
+          { "name": "Buharlı Temizleyici" }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Kamera",
+    "subcategories": [
+      { "name": "Foto & Kamera Aksesuarları" },
+      {
+        "name": "Dijital Kameralar",
+        "subcategories": [
+          { "name": "Video Kamera" },
+          { "name": "Aynasız Fotoğraf Makinesi" },
+          { "name": "Dijital Fotoğraf Makinesi" },
+          { "name": "DSLR Fotoğraf Makinesi" }
+        ]
+      },
+      { "name": "Fotoğraf Makinesi Aksesuarları" }
+    ]
+  },
+  {
+    "name": "Oyun & Oyun Konsolları",
+    "subcategories": [
+      {
+        "name": "Konsol Aksesuarları",
+        "subcategories": [
+          { "name": "Konsol Gamepad ve Joystick" },
+          { "name": "Mobil Oyun Aksesuarları" }
+        ]
+      },
+      { "name": "Bilgisayar Oyunu" },
+      { "name": "Diğer Oyun Konsolları" },
+      {
+        "name": "Playstation Konsolları",
+        "subcategories": [
+          { "name": "Playstation 2" },
+          { "name": "Playstation 3" },
+          { "name": "Playstation 4" },
+          { "name": "Playstation 5" },
+          { "name": "Playstation Aksesuarları" }
+        ]
+      },
+      {
+        "name": "Playstation Oyunları",
+        "subcategories": [
+          { "name": "PS2 Oyunları" },
+          { "name": "PS3 Oyunları" },
+          { "name": "PS4 Oyunları" },
+          { "name": "PS5 Oyunları" }
+        ]
+      },
+      {
+        "name": "Nintendo Konsolları ve Aksesuarları",
+        "subcategories": [
+          { "name": "Nintendo Konsolu" },
+          { "name": "Nintendo Aksesuarları" }
+        ]
+      },
+      { "name": "Nintendo Oyunu" },
+      {
+        "name": "Xbox Konsolları ve Aksesuarları",
+        "subcategories": [
+          { "name": "Xbox Konsolu" },
+          { "name": "Xbox Aksesuarı" }
+        ]
+      },
+      { "name": "Xbox Oyunu" }
+    ]
+  },
+  {
+    "name": "Elektronik",
+    "subcategories": [
+      {
+        "name": "Beyaz Eşya & İklimlendirme",
+        "subcategories": [
+          {
+            "name": "İklimlendirme",
+            "subcategories": [
+              { "name": "Hava Perdesi" },
+              { "name": "Klima" },
+              { "name": "Kombi" },
+              { "name": "Portatif Soğutucu" },
+              { "name": "Isıtıcı" },
+              { "name": "Şofben" },
+              { "name": "Termosifon" },
+              { "name": "Vantilatör" },
+              { "name": "Diğer Isıtıcılar" },
+              { "name": "Yağlı Radyatör" },
+              { "name": "Elektrikli Soba" },
+              { "name": "Fanlı Isıtıcı" },
+              { "name": "Konvektör" },
+              { "name": "Isıtıcı Ayağı & Aparat" },
+              { "name": "Isı Pompası" }
+            ]
+          },
+          { "name": "Beyaz Eşya Yedek Parça" },
+          {
+            "name": "Beyaz Eşya",
+            "subcategories": [
+              { "name": "Ankastre" },
+              { "name": "Aspiratör" },
+              { "name": "Bulaşık Makinesi" },
+              { "name": "Buzdolabı" },
+              { "name": "Çamaşır Makinesi" },
+              { "name": "Davlumbaz" },
+              { "name": "Derin Dondurucu" },
+              { "name": "Fırın" },
+              { "name": "Kurutma Makinesi" },
+              { "name": "Ocak" },
+              { "name": "Su Sebili" },
+              { "name": "Mikrodalga Fırın" },
+              { "name": "Mini & Midi Fırın" },
+              { "name": "Beyaz Eşya Set" }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+      {
+        "name": "Elektronik Aksesuarlar",
+        "subcategories": [
+          {
+            "name": "TV & Görüntü & Ses Sistemleri",
+            "subcategories": [
+              { "name": "Ev Sinema Sistemi", "subcategories": [] },
+              {
+                "name": "Görüntü ve Ses Kabloları",
+                "subcategories": [
+                  { "name": "Ses Kablosu Dönüştürücüsü", "subcategories": [] },
+                  { "name": "Scart Kablo", "subcategories": [] },
+                  { "name": "Uzatıcı & Çoklayıcı", "subcategories": [] },
+                  { "name": "HDMI Kablo", "subcategories": [] },
+                  { "name": "Ses Kablosu", "subcategories": [] }
+                ]
+              },
+              {
+                "name": "TV Aksesuarları",
+                "subcategories": [
+                  { "name": "TV Ekran Koruyucu", "subcategories": [] },
+                  { "name": "Uzaktan Kumanda", "subcategories": [] },
+                  { "name": "TV Askı Aparatı", "subcategories": [] },
+                  { "name": "TV Ekran Temizleme Ürünü", "subcategories": [] },
+                  { "name": "TV Yedek Parça", "subcategories": [] }
+                ]
+              },
+              { "name": "Uydu Alıcı", "subcategories": [] },
+              {
+                "name": "Uydu Alıcı ve Aksesuarları",
+                "subcategories": [
+                  { "name": "Uydu Yön Bulucu", "subcategories": [] },
+                  { "name": "Uydu Santrali", "subcategories": [] },
+                  { "name": "Çanak Anten", "subcategories": [] },
+                  { "name": "Uydu Konnektörü", "subcategories": [] },
+                  { "name": "Lnb", "subcategories": [] },
+                  { "name": "Switch", "subcategories": [] },
+                  { "name": "Uydu Bölücü", "subcategories": [] }
+                ]
+              },
+              { "name": "Hoparlör Ayak & Askısı", "subcategories": [] },
+              { "name": "Kablosuz Ses & Görüntü Aktarıcı", "subcategories": [] },
+              {
+                "name": "Projeksiyon Cihaz ve Aksesuarları",
+                "subcategories": [
+                  { "name": "Projeksiyon Perdesi", "subcategories": [] },
+                  { "name": "Projeksiyon Sunum Kumandası", "subcategories": [] },
+                  { "name": "Projeksiyon Askı Aparatı", "subcategories": [] }
+                ]
+              },
+              {
+                "name": "Ses Sistemleri",
+                "subcategories": [
+                  { "name": "Media Player", "subcategories": [] },
+                  { "name": "DVD & Blu-Ray Oynatıcı", "subcategories": [] },
+                  { "name": "DVR Kayıt Cihazı", "subcategories": [] },
+                  { "name": "Sinema Sistemi", "subcategories": [] },
+                  { "name": "Ev Tipi Subwoofer", "subcategories": [] },
+                  { "name": "Receiver Amfi", "subcategories": [] },
+                  { "name": "Portatif Sistem", "subcategories": [] },
+                  { "name": "Stereo Amfi", "subcategories": [] }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Cep Telefonu Aksesuarları",
+            "subcategories": [
+              { "name": "Kapak & Kılıf", "subcategories": [] },
+              { "name": "Araç İçi Telefon Tutucu", "subcategories": [] },
+              {
+                "name": "Cep Telefonu Yedek Parçaları",
+                "subcategories": [
+                  { "name": "Telefon Bataryası", "subcategories": [] },
+                  { "name": "Telefon Ekranı", "subcategories": [] },
+                  { "name": "Telefon Kasası", "subcategories": [] },
+                  { "name": "Telefon Tuş Takımı", "subcategories": [] },
+                  { "name": "Telefon Kategorisi", "subcategories": [] }
+                ]
+              },
+              { "name": "Ekran Koruyucu Film", "subcategories": [] },
+              { "name": "Selfie Çubuğu", "subcategories": [] },
+              { "name": "Kulaklık Kılıfı", "subcategories": [] },
+              {
+                "name": "Güç Ürünleri",
+                "subcategories": [
+                  { "name": "Powerbank", "subcategories": [] }
+                ]
+              },
+              { "name": "Akıllı Takip Cihazı", "subcategories": [] },
+              {
+                "name": "Şarj Cihazları",
+                "subcategories": [
+                  { "name": "Şarj Aleti", "subcategories": [] },
+                  { "name": "Şarj Adaptörü", "subcategories": [] },
+                  { "name": "Araç Şarj Cihazı", "subcategories": [] },
+                  { "name": "Kablosuz Şarj Cihazı", "subcategories": [] }
+                ]
+              },
+              {
+                "name": "Şarj Kabloları",
+                "subcategories": [
+                  { "name": "Şarj Kablosu", "subcategories": [] },
+                  { "name": "Kablo Aksesuarları", "subcategories": [] }
+                ]
+              },
+              { "name": "Kulaklık Aksesuarı", "subcategories": [] },
+              { "name": "Kamera Lens Koruyucu", "subcategories": [] }
+            ]
+          },
+          {
+            "name": "Bilgisayar Aksesuarları",
+            "subcategories": [
+              {
+                "name": "Ağ - Modem",
+                "subcategories": [
+                  { "name": "Elektronik Devre Elemanı", "subcategories": [] },
+                  { "name": "VDSL Modem", "subcategories": [] },
+                  { "name": "ADSL Modem", "subcategories": [] },
+                  { "name": "Access Point", "subcategories": [] },
+                  { "name": "Network Aksesuarları", "subcategories": [] },
+                  { "name": "Menzil Genişletici", "subcategories": [] },
+                  { "name": "Router", "subcategories": [] },
+                  { "name": "Wireless Adaptör", "subcategories": [] },
+                  { "name": "Ağ Modem Switch", "subcategories": [] },
+                  { "name": "4G Taşınabilir Modem", "subcategories": [] },
+                  { "name": "Powerline Ürünü", "subcategories": [] },
+                  { "name": "4G Modem & Router", "subcategories": [] }
+                ]
+              },
+              { "name": "Kablo & Adaptör", "subcategories": [] },
+              {
+                "name": "Veri Depolama",
+                "subcategories": [
+                  { "name": "Çoklu Depolama Ünitesi", "subcategories": [] },
+                  { "name": "Hafıza Kartı", "subcategories": [] },
+                  { "name": "Taşınabilir Hard Disk", "subcategories": [] },
+                  { "name": "Taşınabilir SSD", "subcategories": [] },
+                  { "name": "USB", "subcategories": [] },
+                  { "name": "Hard Disk", "subcategories": [] },
+                  { "name": "Veri Depolama Aksesuarı", "subcategories": [] }
+                ]
+              },
+              { "name": "Fiziksel Yazılım Ürünleri", "subcategories": [] },
+              {
+                "name": "Yazıcı Sarf Malzemeleri",
+                "subcategories": [
+                  { "name": "Kartuş", "subcategories": [] },
+                  { "name": "Toner", "subcategories": [] },
+                  { "name": "Yazıcı Mürekkebi", "subcategories": [] },
+                  { "name": "Filament", "subcategories": [] },
+                  { "name": "Kartuş Dolum Seti", "subcategories": [] },
+                  { "name": "Diğer Yazıcı Sarf Malzemeleri", "subcategories": [] }
+                ]
+              },
+              {
+                "name": "Oyuncu Donanımları",
+                "subcategories": [
+                  { "name": "Oyuncu Kulaklık", "subcategories": [] },
+                  { "name": "Oyuncu Mouse", "subcategories": [] },
+                  { "name": "Oyuncu Klavyesi", "subcategories": [] },
+                  { "name": "Yayıncı Aksesuarları", "subcategories": [] },
+                  { "name": "Oyuncu Klavye Mouse Set", "subcategories": [] }
+                ]
+              },
+              { "name": "Monitör Aksesuarları", "subcategories": [] },
+              {
+                "name": "Çevre Birimleri",
+                "subcategories": [
+                  { "name": "Klavye", "subcategories": [] },
+                  { "name": "Mouse", "subcategories": [] },
+                  { "name": "Güç Kaynağı & UPS", "subcategories": [] },
+                  { "name": "Mousepad", "subcategories": [] },
+                  { "name": "Webcam", "subcategories": [] },
+                  { "name": "Monitör Aparatı", "subcategories": [] },
+                  { "name": "Bilgisayar Hoparlörü", "subcategories": [] },
+                  { "name": "Klavye Mouse Set", "subcategories": [] }
+                ]
+              },
+              { "name": "Akıllı Ev Sistemleri", "subcategories": [] },
+              {
+                "name": "Kablo & Sarf Malzemeler",
+                "subcategories": [
+                  { "name": "Çeviri Dönüştürücü", "subcategories": [] },
+                  { "name": "Data Kablosu", "subcategories": [] },
+                  { "name": "Güç Kablosu", "subcategories": [] },
+                  { "name": "Network Kablosu", "subcategories": [] },
+                  { "name": "USB Hub Çoklayıcı", "subcategories": [] },
+                  { "name": "Dönüştürücü", "subcategories": [] }
+                ]
+              },
+              {
+                "name": "Notebook Aksesuarları",
+                "subcategories": [
+                  { "name": "Notebook Soğutucu", "subcategories": [] },
+                  { "name": "Notebook Standı", "subcategories": [] },
+                  { "name": "Notebook Adaptörü", "subcategories": [] },
+                  { "name": "Notebook Çantası", "subcategories": [] },
+                  { "name": "Notebook Koruyucu", "subcategories": [] }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Tablet Aksesuarları",
+            "subcategories": [
+              { "name": "Tablet Kılıfı", "subcategories": [] },
+              { "name": "Tablet Standı", "subcategories": [] },
+              { "name": "Tablet Kalemi", "subcategories": [] },
+              { "name": "Tablet Ekran Koruyucu", "subcategories": [] }
+            ]
+          },
+          {
+            "name": "Giyilebilir Teknoloji Aksesuarları",
+            "subcategories": [
+              {
+                "name": "Akıllı Bileklik Aksesuarları",
+                "subcategories": [
+                  { "name": "Akıllı Bileklik Kordon", "subcategories": [] },
+                  { "name": "Akıllı Bileklik Ekran Koruyucu", "subcategories": [] }
+                ]
+              },
+              {
+                "name": "Akıllı Saat Aksesuarları",
+                "subcategories": [
+                  { "name": "Akıllı Saat Kordon", "subcategories": [] },
+                  { "name": "Akıllı Saat Ekran Koruyucu", "subcategories": [] }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+   
+    ]
+  }
+]

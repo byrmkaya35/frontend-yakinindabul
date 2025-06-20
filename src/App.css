@@ -1,0 +1,616 @@
+
+body, html, #root {
+  margin: 0;
+  padding: 0;
+  background: #f4f7fa;
+  font-family: "Inter", Arial, sans-serif;
+  min-height: 100vh;
+}
+
+.main-bg {
+  min-height: 100vh;
+  background: #f4f7fa;
+}
+
+/* HEADER MODERN RESPONSIVE */
+.header-main {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background: #fff;
+  min-height: 64px;
+  padding: 0 34px;
+  border-bottom: 1px solid #e8e8e8;
+  z-index: 100;
+}
+
+
+.header-logo {
+  height: 48px;
+  max-width: 220px;
+  object-fit: contain;
+  user-select: none;
+}
+.header-btns {
+  display: flex;
+  gap: 16px;
+}
+.header-btn {
+  padding: 9px 26px;
+  border-radius: 12px;
+  border: none;
+  font-size: 16px;
+  font-weight: 600;
+  background: #f2f8ff;
+  color: #0980d6;
+  cursor: pointer;
+  transition: 0.15s;
+  box-shadow: 0 1px 3px #0001;
+}
+.header-btn.blue {
+  background: #0980d6;
+  color: #fff;
+}
+.header-btn:active {
+  background: #cde8ff;
+}
+.header-btn.blue:active {
+  background: #0b74c5;
+}
+
+/* RESPONSIVE HEADER */
+@media (max-width: 700px) {
+  .header-main {
+    flex-direction: column;
+    align-items: center;
+    gap: 5px;
+    padding: 10px 4vw 10px 4vw !important;
+    min-height: 80px;
+  }
+  .header-logo {
+    height: 32px !important;
+    max-width: 150px !important;
+    margin-bottom: 4px;
+  }
+  .header-btns {
+    gap: 9px;
+  }
+  .header-btn {
+    font-size: 14px !important;
+    padding: 6px 13px !important;
+    border-radius: 8px !important;
+  }
+}
+
+/* FİLTRELER - Mobilde ortalı ve kompakt */
+@media (max-width: 700px) {
+  .filters {
+    flex-wrap: wrap;
+    justify-content: center !important;
+    gap: 10px !important;
+  }
+  .filter-select {
+    min-width: 88px !important;
+    max-width: 130px !important;
+    font-size: 13.5px !important;
+    padding: 6px 7px !important;
+  }
+}
+
+/* ---- Kalan CSS'ler aynı şekilde devam ---- */
+
+/* (Aşağıya mevcut içeriklerini ekledim, bunlarda değişiklik yok) */
+
+.content {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  gap: 28px;
+  margin: 38px auto 0 auto;
+  max-width: 1280px;
+  min-height: 70vh;
+}
+
+.list-panel {
+  background: #fff;
+  border-radius: 18px;
+  box-shadow: 0 4px 20px #0001;
+  min-width: 340px;
+  max-width: 400px;
+  width: 100%;
+  padding: 26px 22px 22px 22px;
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+}
+
+.search-input {
+  padding: 11px 14px;
+  border-radius: 9px;
+  border: 1px solid #d3d8e3;
+  font-size: 16px;
+  background: #f4f8ff;
+  margin-bottom: 18px;
+  outline: none;
+  transition: border 0.12s;
+}
+.search-input:focus { border-color: #0980d6; }
+
+.tab-row {
+  display: flex;
+  gap: 7px;
+  margin-bottom: 16px;
+}
+.tab-btn {
+  background: #fff;
+  color: #0980d6;
+  border: 1.5px solid #0980d6;
+  border-radius: 9px;
+  padding: 7px 16px;
+  font-weight: 700;
+  font-size: 15px;
+  cursor: pointer;
+  transition: 0.13s;
+}
+.tab-btn.active,
+.tab-btn:hover {
+  background: #0980d6;
+  color: #fff;
+}
+
+/* FİLTRELER */
+.filters {
+  display: flex;
+  gap: 7px;
+  margin-bottom: 15px;
+  flex-wrap: nowrap;
+  overflow-x: auto;
+  overflow-y: visible;
+  padding-bottom: 3px;
+  scrollbar-width: thin;
+  max-width: 100%;
+  align-items: center;
+  z-index: 3; /* Filtre her şeyin üstünde dursun */
+  background: #fff;
+}
+
+/* Mobil filtre satırında scrollbar gizle */
+.filters-mobile.mobile-scroll::-webkit-scrollbar {
+  display: none;
+}
+.filters-mobile.mobile-scroll {
+  -ms-overflow-style: none;  /* IE/Edge */
+  scrollbar-width: none;     /* Firefox */
+}
+
+
+.filters::-webkit-scrollbar {
+  height: 6px;
+  background: #f4f4f4;
+}
+.filters::-webkit-scrollbar-thumb {
+  background: #c5e4ed;
+  border-radius: 8px;
+}
+
+.filter-select {
+  min-width: 90px;
+  max-width: 135px;
+  font-size: 14px;
+  padding: 6px 8px;
+  border-radius: 8px;
+  border: 1px solid #e4e4e4;
+  background: #fff;
+  color: #222;
+}
+
+@media (min-width: 1100px) {
+  .side-panel {
+    width: 500px !important;
+    min-width: 440px !important;
+    max-width: 600px !important;
+  }
+  .right-map-panel {
+    min-width: 0;
+    width: calc(100% - 500px);
+    max-width: 950px;
+  }
+}
+
+@media (max-width: 1100px) {
+  .side-panel {
+    width: 410px !important;
+    min-width: 290px !important;
+  }
+  .right-map-panel {
+    min-width: 0;
+    width: 100%;
+  }
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 16px;
+}
+@media (min-width: 900px) {
+  .grid {
+    gap: 18px;
+  }
+}
+
+/* Ürün kartı */
+.product-list-card {
+  min-width: 170px;
+  max-width: 230px;
+  min-height: 235px;
+  max-height: 280px;
+  background: #fff;
+  border-radius: 18px;
+  box-shadow: 0 2px 12px #0001;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  padding: 13px 12px 13px 12px;
+  transition: box-shadow 0.12s;
+  overflow: visible !important;
+}
+
+/* Dikey ve yatay scroll gizle! */
+.product-list-scroll {
+  overflow-y: hidden !important;
+  overflow-x: hidden !important;
+  scrollbar-width: none !important;
+}
+.product-list-scroll::-webkit-scrollbar {
+  display: none !important;
+}
+
+@media (max-width: 700px) {
+  .grid {
+    gap: 11px;
+  }
+  .product-list-card {
+    min-width: 125px;
+    max-width: 150px;
+    padding: 9px 7px 9px 8px;
+  }
+}
+
+.hide-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+.hide-scrollbar { -ms-overflow-style: none; scrollbar-width: none; }
+
+.trendyol-scrollbar {
+  scrollbar-width: none;
+  -ms-overflow-style: none;
+}
+.trendyol-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+.filter-select {
+  border: 1px solid #e5e7eb;
+  border-radius: 8px;
+  font-size: 13px;
+  padding: 5px 8px;
+  background: #f8fafc;
+}
+@media (max-width: 900px) {
+  .mobile-filters {
+    margin-left: -10px;
+    margin-right: -10px;
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+
+body, html, #root {
+  margin: 0;
+  padding: 0;
+  background: #f4f7fa;
+  font-family: "Inter", Arial, sans-serif;
+  min-height: 100vh;
+}
+
+.main-bg {
+  min-height: 100vh;
+  background: #f4f7fa;
+}
+
+/* HEADER MODERN RESPONSIVE */
+.header-main {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background: #fff;
+  min-height: 64px;
+  padding: 0 34px;
+  border-bottom: 1px solid #e8e8e8;
+  z-index: 100;
+}
+
+
+.header-logo {
+  height: 48px;
+  max-width: 220px;
+  object-fit: contain;
+  user-select: none;
+}
+.header-btns {
+  display: flex;
+  gap: 16px;
+}
+.header-btn {
+  padding: 9px 26px;
+  border-radius: 12px;
+  border: none;
+  font-size: 16px;
+  font-weight: 600;
+  background: #f2f8ff;
+  color: #0980d6;
+  cursor: pointer;
+  transition: 0.15s;
+  box-shadow: 0 1px 3px #0001;
+}
+.header-btn.blue {
+  background: #0980d6;
+  color: #fff;
+}
+.header-btn:active {
+  background: #cde8ff;
+}
+.header-btn.blue:active {
+  background: #0b74c5;
+}
+
+/* RESPONSIVE HEADER */
+@media (max-width: 700px) {
+  .header-main {
+    flex-direction: column;
+    align-items: center;
+    gap: 5px;
+    padding: 10px 4vw 10px 4vw !important;
+    min-height: 80px;
+  }
+  .header-logo {
+    height: 32px !important;
+    max-width: 150px !important;
+    margin-bottom: 4px;
+  }
+  .header-btns {
+    gap: 9px;
+  }
+  .header-btn {
+    font-size: 14px !important;
+    padding: 6px 13px !important;
+    border-radius: 8px !important;
+  }
+}
+
+/* FİLTRELER - Mobilde ortalı ve kompakt */
+@media (max-width: 700px) {
+  .filters {
+    flex-wrap: wrap;
+    justify-content: center !important;
+    gap: 10px !important;
+  }
+  .filter-select {
+    min-width: 88px !important;
+    max-width: 130px !important;
+    font-size: 13.5px !important;
+    padding: 6px 7px !important;
+  }
+}
+
+/* ---- Kalan CSS'ler aynı şekilde devam ---- */
+
+/* (Aşağıya mevcut içeriklerini ekledim, bunlarda değişiklik yok) */
+
+.content {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  gap: 28px;
+  margin: 38px auto 0 auto;
+  max-width: 1280px;
+  min-height: 70vh;
+}
+
+.list-panel {
+  background: #fff;
+  border-radius: 18px;
+  box-shadow: 0 4px 20px #0001;
+  min-width: 340px;
+  max-width: 400px;
+  width: 100%;
+  padding: 26px 22px 22px 22px;
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+}
+
+.search-input {
+  padding: 11px 14px;
+  border-radius: 9px;
+  border: 1px solid #d3d8e3;
+  font-size: 16px;
+  background: #f4f8ff;
+  margin-bottom: 18px;
+  outline: none;
+  transition: border 0.12s;
+}
+.search-input:focus { border-color: #0980d6; }
+
+.tab-row {
+  display: flex;
+  gap: 7px;
+  margin-bottom: 16px;
+}
+.tab-btn {
+  background: #fff;
+  color: #0980d6;
+  border: 1.5px solid #0980d6;
+  border-radius: 9px;
+  padding: 7px 16px;
+  font-weight: 700;
+  font-size: 15px;
+  cursor: pointer;
+  transition: 0.13s;
+}
+.tab-btn.active,
+.tab-btn:hover {
+  background: #0980d6;
+  color: #fff;
+}
+
+/* FİLTRELER */
+.filters {
+  display: flex;
+  gap: 7px;
+  margin-bottom: 15px;
+  flex-wrap: nowrap;
+  overflow-x: auto;
+  overflow-y: visible;
+  padding-bottom: 3px;
+  scrollbar-width: thin;
+  max-width: 100%;
+  align-items: center;
+  z-index: 3; /* Filtre her şeyin üstünde dursun */
+  background: #fff;
+}
+
+/* Mobil filtre satırında scrollbar gizle */
+.filters-mobile.mobile-scroll::-webkit-scrollbar {
+  display: none;
+}
+.filters-mobile.mobile-scroll {
+  -ms-overflow-style: none;  /* IE/Edge */
+  scrollbar-width: none;     /* Firefox */
+}
+
+
+.filters::-webkit-scrollbar {
+  height: 6px;
+  background: #f4f4f4;
+}
+.filters::-webkit-scrollbar-thumb {
+  background: #c5e4ed;
+  border-radius: 8px;
+}
+
+.filter-select {
+  min-width: 90px;
+  max-width: 135px;
+  font-size: 14px;
+  padding: 6px 8px;
+  border-radius: 8px;
+  border: 1px solid #e4e4e4;
+  background: #fff;
+  color: #222;
+}
+
+@media (min-width: 1100px) {
+  .side-panel {
+    width: 500px !important;
+    min-width: 440px !important;
+    max-width: 600px !important;
+  }
+  .right-map-panel {
+    min-width: 0;
+    width: calc(100% - 500px);
+    max-width: 950px;
+  }
+}
+
+@media (max-width: 1100px) {
+  .side-panel {
+    width: 410px !important;
+    min-width: 290px !important;
+  }
+  .right-map-panel {
+    min-width: 0;
+    width: 100%;
+  }
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 16px;
+}
+@media (min-width: 900px) {
+  .grid {
+    gap: 18px;
+  }
+}
+
+/* Ürün kartı */
+.product-list-card {
+  min-width: 170px;
+  max-width: 230px;
+  min-height: 235px;
+  max-height: 280px;
+  background: #fff;
+  border-radius: 18px;
+  box-shadow: 0 2px 12px #0001;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  padding: 13px 12px 13px 12px;
+  transition: box-shadow 0.12s;
+  overflow: visible !important;
+}
+
+/* Dikey ve yatay scroll gizle! */
+.product-list-scroll {
+  overflow-y: hidden !important;
+  overflow-x: hidden !important;
+  scrollbar-width: none !important;
+}
+.product-list-scroll::-webkit-scrollbar {
+  display: none !important;
+}
+
+@media (max-width: 700px) {
+  .grid {
+    gap: 11px;
+  }
+  .product-list-card {
+    min-width: 125px;
+    max-width: 150px;
+    padding: 9px 7px 9px 8px;
+  }
+}
+
+.hide-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+.hide-scrollbar { -ms-overflow-style: none; scrollbar-width: none; }
+
+.trendyol-scrollbar {
+  scrollbar-width: none;
+  -ms-overflow-style: none;
+}
+.trendyol-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+.filter-select {
+  border: 1px solid #e5e7eb;
+  border-radius: 8px;
+  font-size: 13px;
+  padding: 5px 8px;
+  background: #f8fafc;
+}
+@media (max-width: 900px) {
+  .mobile-filters {
+    margin-left: -10px;
+    margin-right: -10px;
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
