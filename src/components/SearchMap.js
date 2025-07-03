@@ -108,6 +108,12 @@ function SearchMap() {
   const [selectedMapProduct, setSelectedMapProduct] = useState(null);
   const [selectedService, setSelectedService] = useState(null);
 
+  // Üründen işletme adını otomatik almak için fonksiyon
+function getBusinessName(product) {
+  const b = businesses.find(biz => String(biz.id) === String(product.business_id));
+  return b ? b.business_name || b.name : "";
+}
+
   // Filtre State'leri
   const params = new URLSearchParams(location.search);
   const urlSearch = params.get("q") || "";
@@ -450,20 +456,28 @@ function SearchMap() {
                     </svg>
                   </button>
                   {/* Ürün görseli */}
-                  <div className="flex items-center justify-center pt-4 pb-2 h-24 bg-gray-50">
-                    <img src={product.image} alt={product.desc} className="max-h-16 object-contain" />
-                  </div>
-                  <div className="flex flex-col gap-1 px-3 pb-2 pt-1 flex-1 relative">
-                    <div className="font-bold text-[15px] text-gray-800 line-clamp-1">{product.desc}</div>
-                    <div className="text-xs text-gray-500 line-clamp-1">{product.shortDesc || "Kısa açıklama burada."}</div>
-                    <div className="text-xs text-teal-600 font-semibold hover:underline mt-1 mb-1">
-                      <Link
-                        to={`/isletme/${businessSlugs[product.name] || ""}`}
-                        onClick={e => e.stopPropagation()}
-                      >
-                        {product.name}
-                      </Link>
-                    </div>
+<div className="flex items-center justify-center pt-4 pb-2 h-24 bg-gray-50">
+  <img src={product.image}
+    alt={product.name}
+    className="max-h-16 object-contain"
+  />
+</div>
+<div className="flex flex-col gap-1 px-3 pb-2 pt-1 flex-1 relative">
+  {/* 1. ÜRÜN ADI */}
+  <div className="font-bold text-[15px] text-gray-800 line-clamp-1">{product.name}</div>
+  {/* 2. ÜRÜN AÇIKLAMASI */}
+  <div className="text-xs text-gray-500 line-clamp-1">{product.desc}</div>
+  {/* 3. İŞLETME ADI */}
+  <div className="text-xs text-teal-600 font-semibold hover:underline mt-1 mb-1">
+    {/* Burada işletme adını ürün ile ilişkili business objesinden çekmen gerekir */}
+    <Link
+      to={`/isletme/${businessSlugs[product.business_name] || ""}`}
+      onClick={e => e.stopPropagation()}
+    >
+      {product.business_name}
+    </Link>
+  </div>
+
                     <div className="flex items-center gap-1 text-yellow-400 text-xs mt-1 mb-0">
                       {[...Array(5)].map((_, i) => (
                         <svg key={i} width="14" height="14" fill={i < (product.stars || 4) ? "#FACC15" : "#E5E7EB"}>
